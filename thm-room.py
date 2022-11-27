@@ -42,7 +42,7 @@ try:
         for i, j in zip(jsonObj, range(len(jsonObj))):
             dataR = "S.No: " + str(j + 1) + "\n" + "Name: " + i['title'] + "\n" + "Type: " + str(
                 i['tags']) + "\nURL: https://tryhackme.com/room/" + str(i['code']) + "\n" + "Room Code: " + str(
-                i['title']) + "\n\n"
+                i['code']) + "\n\n"
             print(dataR)
             FILE.write(dataR)
 
