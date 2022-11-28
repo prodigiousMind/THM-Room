@@ -7,7 +7,7 @@ THM-ROOM.PY is a python script created for educational purpose to fetch all the 
 > Usage `python3 thm-room.py help`
 ## It can also be used with commands such as `grep`|`sed` to extract only Room URLs/Codes
 ### Example:
-> python3 thm-room.py [username/url] | sort | uniq | grep -i "url"
+> python3 thm-room.py [username/url] ; cat roomInfo.txt | sort | uniq | grep -i "url"
 
-> python3 thm-room.py [username/url] | sort | uniq | grep -i "code:"
+> python3 thm-room.py [username/url] ; cat roomInfo.txt | sort | uniq | grep -i "code:"
 ### The above first command will only show Room's URL and the second one will show Room's code
