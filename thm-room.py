@@ -83,7 +83,7 @@ try:
         
 
     def write2file(jsonObj):
-        '''This function takes an argument (dict type [API response]) and extract different values based on the key, it sends the output to stdout and also saves it in a file'''
+        '''This function takes an argument (dict type [API response]) and extract different values based on the key, it also saves the detail in a file'''
         listOfCode = []
         FILE = open("roomInfo.txt", "a")
         for i, j in zip(jsonObj, range(len(jsonObj))):
@@ -96,8 +96,8 @@ try:
         print("...Rooms detailed file has also been created, see ./roomInfo.txt")
         FILE.close()
         print("\n\033[92mWould you like to join the fetched groups as well?\033[0m")
-        opt = input("1-> Yes or 2-> No: ")
-        jr(listOfCode) if (opt == "1" or opt.lower() == "yes" or opt.lower() == "Y") else print('terminating...')
+        opt = input("1-> Yes or 2-> No: ")[0]
+        jr(listOfCode) if (opt == "1" or opt.lower() == "y") else print('terminating...')
 
 
     def opener(textResp):
