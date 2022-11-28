@@ -1,3578 +1,4648 @@
-# List of about 600 TRYHACKME rooms
+# List of 660+ Tryhackme Rooms
 
 S.No: 1
+Name: Advent of Cyber 2022
+Type: ['beginner', 'christmas', 'challenge', 'advent', 'of', 'cyber', 'two', '2']
+URL: https://tryhackme.com/room/adventofcyber4
+Room Code: adventofcyber4
+
+
+S.No: 2
 Name: Warzone 2
 Type: ['packet analysis', 'wireshark', 'brim', 'network miner']
 URL: https://tryhackme.com/room/warzonetwo
 Room Code: warzonetwo
 
-S.No: 2
+
+S.No: 3
 Name: Dissecting PE Headers
 Type: ['security', 'malware analysis', 'reverse engineering', 're', 'pe', 'pe header', 'blue team']
 URL: https://tryhackme.com/room/dissectingpeheaders
 Room Code: dissectingpeheaders
 
-S.No: 3
+
+S.No: 4
 Name: Tempest
 Type: ['security', 'log analysis', 'sysmon', 'brim', 'wireshark', 'evtx']
 URL: https://tryhackme.com/room/tempestincident
 Room Code: tempestincident
 
-S.No: 4
+
+S.No: 5
 Name: Security Principles
 Type: ['security', 'confidentiality', 'integrity', 'availability', 'CIA', 'DAD', 'non-repudiation', 'authenticity', 'defense-in-depth', 'zero trust', 'defence-in-depth', 'threat', 'risk', 'vulnerability']
 URL: https://tryhackme.com/room/securityprinciples
 Room Code: securityprinciples
 
-S.No: 5
+
+S.No: 6
 Name: Neighbour
 Type: ['web', 'idor', 'ctf', 'authentication']
 URL: https://tryhackme.com/room/neighbour
 Room Code: neighbour
 
-S.No: 6
+
+S.No: 7
 Name: Volatility
 Type: ['volatility', 'forensics', 'memory', 'malware', 'security', 'blue team', 'malware analysis', 'ransomware', 'rootkits', 'SSDT']
 URL: https://tryhackme.com/room/volatility
 Room Code: volatility
 
-S.No: 7
+
+S.No: 8
 Name: Osquery: The Basics
 Type: ['security', 'osquery']
 URL: https://tryhackme.com/room/osqueryf8
 Room Code: osqueryf8
 
-S.No: 8
+
+S.No: 9
 Name: Traffic Analysis Essentials
 Type: ['network security', 'traffic analysis', 'network traffic analysis', 'pcap', 'security operations', 'intrusion detection', 'network forensics']
 URL: https://tryhackme.com/room/trafficanalysisessentials
 Room Code: trafficanalysisessentials
 
-S.No: 9
+
+S.No: 10
 Name: PrintNightmare, thrice!
 Type: ['windows', 'print spooler', 'cve-2021-36958', 'printnightmare']
 URL: https://tryhackme.com/room/printnightmarec3kj
 Room Code: printnightmarec3kj
 
-S.No: 10
+
+S.No: 11
 Name: Splunk: Basics
 Type: ['siem', 'splunk', 'logs']
 URL: https://tryhackme.com/room/splunk101
 Room Code: splunk101
 
-S.No: 11
+
+S.No: 12
 Name: Introduction to SIEM
 Type: ['security', 'SIEM', 'Log Analysis']
 URL: https://tryhackme.com/room/introtosiem
 Room Code: introtosiem
 
-S.No: 12
+
+S.No: 13
 Name: Investigating with ELK 101
 Type: ['security', 'Investigation', 'SIEM', 'ElasticStack Kibana', ' ELK', ' analysis']
 URL: https://tryhackme.com/room/investigatingwithelk101
 Room Code: investigatingwithelk101
 
-S.No: 13
+
+S.No: 14
 Name: PS Eclipse
 Type: ['splunk', 'siem', 'powershell', 'ransomware']
 URL: https://tryhackme.com/room/posheclipse
 Room Code: posheclipse
 
-S.No: 14
+
+S.No: 15
 Name: Templates
 Type: ['security', 'web application', 'templating', 'pug']
 URL: https://tryhackme.com/room/templates
 Room Code: templates
 
-S.No: 15
+
+S.No: 16
 Name: Warzone 1
 Type: ['packet analysis', 'wireshark', 'brim', 'network miner']
 URL: https://tryhackme.com/room/warzoneone
 Room Code: warzoneone
 
-S.No: 16
+
+S.No: 17
 Name: Epoch
 Type: ['security', 'web app', 'cli', 'epoch', 'linux']
 URL: https://tryhackme.com/room/epoch
 Room Code: epoch
 
-S.No: 17
+
+S.No: 18
 Name: PrintNightmare, again!
 Type: ['windows', 'printnightmare', 'print spooler']
 URL: https://tryhackme.com/room/printnightmarec2bn7l
 Room Code: printnightmarec2bn7l
 
-S.No: 18
+
+S.No: 19
 Name: Investigating with Splunk
 Type: ['security', 'splunk', 'SIEM', 'Incident Handling', 'backdoor']
 URL: https://tryhackme.com/room/investigatingwithsplunk
 Room Code: investigatingwithsplunk
 
-S.No: 19
+
+S.No: 20
 Name: ItsyBitsy
 Type: ['security', 'Cyber Attack', 'Kibana', 'C2 Server']
 URL: https://tryhackme.com/room/itsybitsy
 Room Code: itsybitsy
 
-S.No: 20
+
+S.No: 21
 Name: Benign
 Type: ['security', 'SIEM', 'splunk', 'lolbin', 'C2 communication']
 URL: https://tryhackme.com/room/benign
 Room Code: benign
 
-S.No: 21
+
+S.No: 22
 Name: DX1: Liberty Island
 Type: ['vnc', 'golang', 'webenum']
 URL: https://tryhackme.com/room/dx1libertyislandplde
 Room Code: dx1libertyislandplde
 
-S.No: 22
+
+S.No: 23
 Name: Intro to Endpoint Security
 Type: ['security', 'soc', 'endpoint', 'logs', 'edr']
 URL: https://tryhackme.com/room/introtoendpointsecurity
 Room Code: introtoendpointsecurity
 
-S.No: 23
+
+S.No: 24
 Name: DFIR: An Introduction
 Type: ['security', 'DFIR', 'Linux', 'Windows', 'Incident Response', 'Forensics', 'Artifacts']
 URL: https://tryhackme.com/room/introductoryroomdfirmodule
 Room Code: introductoryroomdfirmodule
 
-S.No: 24
+
+S.No: 25
 Name: Surfer
 Type: ['security', 'enumeration', 'web', 'content discovery']
 URL: https://tryhackme.com/room/surfer
 Room Code: surfer
 
-S.No: 25
+
+S.No: 26
 Name: Wireshark: Traffic Analysis
 Type: ['PCAP Analysis', 'Forensics', 'Wireshark', 'Threat Hunting', 'DFIR', 'Security', 'Blue Team', 'Incident Response', 'Networking', 'pcap']
 URL: https://tryhackme.com/room/wiresharktrafficanalysis
 Room Code: wiresharktrafficanalysis
 
-S.No: 26
+
+S.No: 27
 Name: Intro to Cyber Threat Intel
 Type: ['security', 'cti', 'blue-team', 'intel']
 URL: https://tryhackme.com/room/cyberthreatintel
 Room Code: cyberthreatintel
 
-S.No: 27
+
+S.No: 28
 Name: OpenCTI
 Type: ['security', 'Blue Team', 'Threat Intelligence', 'opencti']
 URL: https://tryhackme.com/room/opencti
 Room Code: opencti
 
-S.No: 28
+
+S.No: 29
 Name: Diamond Model
 Type: ['security', 'diamond model', 'cyber defence frameworks', 'kill chain']
 URL: https://tryhackme.com/room/diamondmodelrmuwwg42
 Room Code: diamondmodelrmuwwg42
 
-S.No: 29
+
+S.No: 30
 Name: Corridor
 Type: ['security', 'idor', 'web']
 URL: https://tryhackme.com/room/corridor
 Room Code: corridor
 
-S.No: 30
+
+S.No: 31
 Name: Unified Kill Chain
 Type: ['framework', 'cyber resilience', 'defence', 'threat modelling', 'security', 'strategy', 'UKC', 'unified kill chain']
 URL: https://tryhackme.com/room/unifiedkillchain
 Room Code: unifiedkillchain
 
-S.No: 31
+
+S.No: 32
 Name: Takedown
 Type: ['challenge', 'story-based', 'intel']
 URL: https://tryhackme.com/room/takedown
 Room Code: takedown
 
-S.No: 32
+
+S.No: 33
 Name: Microsoft Windows Hardening
 Type: ['security', 'windows', 'hardening', 'defender', 'edge', 'office', ' browser', 'safe', 'exploit', 'guard', 'cybersecurity']
 URL: https://tryhackme.com/room/microsoftwindowshardening
 Room Code: microsoftwindowshardening
 
-S.No: 33
+
+S.No: 34
 Name: Learn & win prizes - Fall 2022
 Type: ['tickets']
 URL: https://tryhackme.com/room/tickets3
 Room Code: tickets3
 
-S.No: 34
+
+S.No: 35
 Name: Intermediate Nmap
 Type: ['security', 'nnetwork', 'enumeration', 'netcat', 'protocols', 'ctf']
 URL: https://tryhackme.com/room/intermediatenmap
 Room Code: intermediatenmap
 
-S.No: 35
+
+S.No: 36
 Name: Cyber Kill Chain 
 Type: ['security', 'blue team', 'cyber kill chain']
 URL: https://tryhackme.com/room/cyberkillchainzmt
 Room Code: cyberkillchainzmt
 
-S.No: 36
+
+S.No: 37
 Name: VulnNet: Endgame
 Type: ['security', 'penetration testing', 'linux', 'web', 'red', 'offensive', 'privilege escalation', 'learn', 'hash cracking', 'owasp', 'mitre', 'system', 'reverse shell']
 URL: https://tryhackme.com/room/vulnnetendgame
 Room Code: vulnnetendgame
 
-S.No: 37
+
+S.No: 38
 Name: Crypted
 Type: ['security', 'forensics', 'exploitation', 'secret']
 URL: https://tryhackme.com/room/crypted
 Room Code: crypted
 
-S.No: 38
+
+S.No: 39
 Name: AV Evasion: Shellcode
 Type: ['AV Bypass', 'Windows Defender Bypass', 'Shellcode', 'Encryption', 'Encoding', 'AV Evasion', 'Binders', 'Packers', 'Staged Payload', 'PE', 'PE structure', 'Stageless Payloads']
 URL: https://tryhackme.com/room/avevasionshellcode
 Room Code: avevasionshellcode
 
-S.No: 39
+
+S.No: 40
 Name: Introduction to Windows API
 Type: ['Windows', 'API', 'PowerShell', 'C#', 'Programming', 'C++', 'Win32', 'C', '.NET', 'p/invoke']
 URL: https://tryhackme.com/room/windowsapi
 Room Code: windowsapi
 
-S.No: 40
+
+S.No: 41
 Name: Jumpbox
 Type: ['security', 'kubernetes']
 URL: https://tryhackme.com/room/jumpbox
 Room Code: jumpbox
 
-S.No: 41
+
+S.No: 42
 Name: Credentials Harvesting
 Type: ['Mimikatz', 'Credentials Hunting', 'SAM', 'Local Windows Credentials', 'lsass', 'LSA protection', 'LAPS', 'Credentials Manager', 'DC Sync', 'NTDS', 'AS-REP Roasting', 'Kerberoasting']
 URL: https://tryhackme.com/room/credharvesting
 Room Code: credharvesting
 
-S.No: 42
+
+S.No: 43
 Name: Obfuscation Principles
 Type: ['Windows', 'Obfuscation', 'Malware', 'C', 'C++', 'Symbols', 'Concatenation', 'Control Flow', 'Anti-Reverse Engineering']
 URL: https://tryhackme.com/room/obfuscationprinciples
 Room Code: obfuscationprinciples
 
-S.No: 43
+
+S.No: 44
 Name: Signature Evasion
 Type: ['Obfuscation', 'Defender', 'Anti-Virus Evasion', 'Windows', 'Behavioral Signatures', 'Signatures']
 URL: https://tryhackme.com/room/signatureevasion
 Room Code: signatureevasion
 
-S.No: 44
+
+S.No: 45
 Name: Data Exfiltration
 Type: ['DNS exfiltration', 'ICMP exfiltration ', 'DNS Tunneling', 'HTTP Tunneling', 'Data Exfiltration']
 URL: https://tryhackme.com/room/dataxexfilt
 Room Code: dataxexfilt
 
-S.No: 45
+
+S.No: 46
 Name: b3dr0ck
 Type: ['ctf', 'tls', 'socat', 'sockets', 'ssl']
 URL: https://tryhackme.com/room/b3dr0ck
 Room Code: b3dr0ck
 
-S.No: 46
+
+S.No: 47
 Name: Active Directory Basics
 Type: ['security', 'windows', 'active directory', 'AD', 'Windows Domains', 'Group Policies', 'GPO']
 URL: https://tryhackme.com/room/winadbasics
 Room Code: winadbasics
 
-S.No: 47
+
+S.No: 48
 Name: Brim
 Type: ['Brim', 'Traffic Analysis', 'Log Analysis', 'Network Forensics', 'Threat Hunting', 'PCAP']
 URL: https://tryhackme.com/room/brim
 Room Code: brim
 
-S.No: 48
+
+S.No: 49
 Name: Confidential
 Type: ['security', 'forensics', 'pdf', 'qr', 'analysis']
 URL: https://tryhackme.com/room/confidential
 Room Code: confidential
 
-S.No: 49
+
+S.No: 50
 Name: Enumeration
 Type: ['security', 'enumeration', 'processes', 'services', 'post-exploitation', 'users']
 URL: https://tryhackme.com/room/enumerationpe
 Room Code: enumerationpe
 
-S.No: 50
+
+S.No: 51
 Name: Hacker vs. Hacker
 Type: ['web foothold', 'enumeration']
 URL: https://tryhackme.com/room/hackervshacker
 Room Code: hackervshacker
 
-S.No: 51
+
+S.No: 52
 Name: Velociraptor
 Type: ['velociraptor', 'digital forensics', 'dfir', 'endpoint monitoring', 'incident response']
 URL: https://tryhackme.com/room/velociraptorhp
 Room Code: velociraptorhp
 
-S.No: 52
+
+S.No: 53
 Name: Agent T
 Type: ['security', 'php', 'backdoor']
 URL: https://tryhackme.com/room/agentt
 Room Code: agentt
 
-S.No: 53
+
+S.No: 54
 Name: Threat Intelligence Tools
 Type: ['security', 'threat intelligence', 'open source', 'phishing', 'blue team', 'osint']
 URL: https://tryhackme.com/room/threatinteltools
 Room Code: threatinteltools
 
-S.No: 54
+
+S.No: 55
 Name: Brute
 Type: ['security', 'cyber', 'hacking', 'bruteforce']
 URL: https://tryhackme.com/room/ettubrute
 Room Code: ettubrute
 
-S.No: 55
+
+S.No: 56
 Name: Zeek Exercises
 Type: ['Zeek', 'Bro', 'Traffic Analysis', 'Network Monitoring', 'Network Forensics', 'PCAP', 'Intrusion', 'Detection', 'IDS']
 URL: https://tryhackme.com/room/zeekbroexercises
 Room Code: zeekbroexercises
 
-S.No: 56
+
+S.No: 57
 Name: Zeek
 Type: ['Zeek', 'Bro', 'Traffic Analysis', 'Network Monitoring', 'Network Forensics', 'PCAP', 'Intrusion', 'Detection', 'IDS', 'Threat Hunting']
 URL: https://tryhackme.com/room/zeekbro
 Room Code: zeekbro
 
-S.No: 57
+
+S.No: 58
 Name: Quotient
 Type: ['security', 'windows', 'privilege escalation']
 URL: https://tryhackme.com/room/quotient
 Room Code: quotient
 
-S.No: 58
+
+S.No: 59
 Name: Introduction to Antivirus
 Type: ['AV detection techniques', 'Heuristic Engine', 'Signature Engine', 'AV software', 'Antivirus']
 URL: https://tryhackme.com/room/introtoav
 Room Code: introtoav
 
-S.No: 59
+
+S.No: 60
 Name: Windows Local Persistence
 Type: ['windows', 'local persistence', 'red team', 'persistence', 'backdoors']
 URL: https://tryhackme.com/room/windowslocalpersistence
 Room Code: windowslocalpersistence
 
-S.No: 60
+
+S.No: 61
 Name: Olympus
 Type: ['enumeration', 'vhost', 'upload', 'sqli']
 URL: https://tryhackme.com/room/olympusroom
 Room Code: olympusroom
 
-S.No: 61
+
+S.No: 62
 Name: SSDLC
 Type: ['security', 'SDLC', 'DevSecOps', 'SSDLC']
 URL: https://tryhackme.com/room/securesdlc
 Room Code: securesdlc
 
-S.No: 62
+
+S.No: 63
 Name: Follina MSDT
 Type: ['security', 'CVE-2022-30190', 'MSDT', 'Follina', '0 Day']
 URL: https://tryhackme.com/room/follinamsdt
 Room Code: follinamsdt
 
-S.No: 63
+
+S.No: 64
 Name: Wireshark: Packet Operations
 Type: ['PCAP Analysis', 'Forensics', 'Wireshark', 'Threat Hunting', 'DFIR', 'Security', 'Blue Team', 'Incident Response', 'Networking']
 URL: https://tryhackme.com/room/wiresharkpacketoperations
 Room Code: wiresharkpacketoperations
 
-S.No: 64
+
+S.No: 65
 Name: Committed
 Type: ['security', 'ctf', 'git', 'source code', 'sensitive information']
 URL: https://tryhackme.com/room/committed
 Room Code: committed
 
-S.No: 65
+
+S.No: 66
 Name: Persisting Active Directory
 Type: ['security', 'active directory', 'persistence', 'ad', 'ad persistence', 'golden tickets', 'silver tickets', 'group policy objects', 'ad cs', 'active directory certificate templates', 'dcsync']
 URL: https://tryhackme.com/room/persistingad
 Room Code: persistingad
 
-S.No: 66
+
+S.No: 67
 Name: Wireshark: The Basics
 Type: ['PCAP Analysis', 'Forensics', 'Wireshark', 'Threat Hunting', 'DFIR', 'Security', 'Blue Team', 'Incident Response', 'Networking']
 URL: https://tryhackme.com/room/wiresharkthebasics
 Room Code: wiresharkthebasics
 
-S.No: 67
+
+S.No: 68
 Name: Atlassian, CVE-2022-26134
 Type: ['atlassian', 'CVE', 'RCE', 'java', 'unauthenticated', 'red team', 'blue team', 'yara', 'patching', 'security', 'analysis', 'lab', 'OGNL', 'OGNL Injection', 'CVE-2022-26134']
 URL: https://tryhackme.com/room/cve202226134
 Room Code: cve202226134
 
-S.No: 68
+
+S.No: 69
 Name: Annie
 Type: ['security', 'exploit', 'boot2root']
 URL: https://tryhackme.com/room/annie
 Room Code: annie
 
-S.No: 69
+
+S.No: 70
 Name: Exploiting Active Directory
 Type: ['security', 'active directory', 'ad', 'exploiting ad', 'kerberos', 'certificates', 'group policy objects', 'gpos', 'ace exploits']
 URL: https://tryhackme.com/room/exploitingad
 Room Code: exploitingad
 
-S.No: 70
+
+S.No: 71
 Name: Lateral Movement and Pivoting
 Type: ['red team', 'lateral movement', 'pivoting', 'windows', 'pass-the-hash', 'pass-the-ticket', 'overpass-the-hash', 'AD']
 URL: https://tryhackme.com/room/lateralmovementandpivoting
 Room Code: lateralmovementandpivoting
 
-S.No: 71
+
+S.No: 72
 Name: Island Orchestration
 Type: ['security', 'kubernetes']
 URL: https://tryhackme.com/room/islandorchestration
 Room Code: islandorchestration
 
-S.No: 72
+
+S.No: 73
 Name: Sea Surfer
 Type: ['web', 'enumeration', 'linux', 'ctf']
 URL: https://tryhackme.com/room/seasurfer
 Room Code: seasurfer
 
-S.No: 73
+
+S.No: 74
 Name: Windows Privilege Escalation
 Type: ['windows', 'privesc', 'penetration testing', 'red team']
 URL: https://tryhackme.com/room/windowsprivesc20
 Room Code: windowsprivesc20
 
-S.No: 74
+
+S.No: 75
 Name: Enumerating Active Directory
 Type: ['security', 'active directory', 'ad', 'sharphound', 'ad enumeration', 'powershell', 'command prompt']
 URL: https://tryhackme.com/room/adenumeration
 Room Code: adenumeration
 
-S.No: 75
+
+S.No: 76
 Name: Mr. Phisher
 Type: ['security', 'office', 'docx', 'forensics', 'macros', 'phishing', 'analysis']
 URL: https://tryhackme.com/room/mrphisher
 Room Code: mrphisher
 
-S.No: 76
+
+S.No: 77
 Name: Breaching Active Directory
 Type: ['security', 'active directory', 'AD', 'network', 'ntlm', 'ldap', 'breaching ad']
 URL: https://tryhackme.com/room/breachingad
 Room Code: breachingad
 
-S.No: 77
+
+S.No: 78
 Name: Frank and Herby try again.....
 Type: ['security', 'kubernetes']
 URL: https://tryhackme.com/room/frankandherbytryagain
 Room Code: frankandherbytryagain
 
-S.No: 78
+
+S.No: 79
 Name: Evading Logging and Monitoring
 Type: ['Windows', 'Evasion', 'ETW', 'Reflection', 'PowerShell', 'Event Tracing']
 URL: https://tryhackme.com/room/monitoringevasion
 Room Code: monitoringevasion
 
-S.No: 79
+
+S.No: 80
 Name: Linux Forensics
 Type: ['security', 'linux', 'dfir', 'forensics', 'artifacts', 'incident response']
 URL: https://tryhackme.com/room/linuxforensics
 Room Code: linuxforensics
 
-S.No: 80
+
+S.No: 81
 Name: CyberHeroes
 Type: ['security', 'ctf', 'credential', 'authentication']
 URL: https://tryhackme.com/room/cyberheroes
 Room Code: cyberheroes
 
-S.No: 81
+
+S.No: 82
 Name: Introduction to DevSecOps
 Type: ['DevOps', ' DevSecOps', ' Agile', ' Software Development Lifecycle', ' SDLC']
 URL: https://tryhackme.com/room/introductiontodevsecops
 Room Code: introductiontodevsecops
 
-S.No: 82
+
+S.No: 83
 Name: Biblioteca
 Type: ['security', 'cyber', 'hacking']
 URL: https://tryhackme.com/room/biblioteca
 Room Code: biblioteca
 
-S.No: 83
+
+S.No: 84
 Name: NetworkMiner
 Type: ['NetworkMiner', 'Traffic analysis', 'Network forensics', 'pcap', 'Intrusion', 'Detection', 'forensics']
 URL: https://tryhackme.com/room/networkminer
 Room Code: networkminer
 
-S.No: 84
+
+S.No: 85
 Name: Dig Dug
 Type: ['security', 'dns', 'dig', 'ctf']
 URL: https://tryhackme.com/room/digdug
 Room Code: digdug
 
-S.No: 85
+
+S.No: 86
 Name: CVE-2022-26923
 Type: ['ad cs', 'certificate services', 'active directory', 'cve-2022-26923']
 URL: https://tryhackme.com/room/cve202226923
 Room Code: cve202226923
 
-S.No: 86
+
+S.No: 87
 Name: Careers in Cyber
 Type: ['security', 'career', 'job', 'security analyst', 'security engineer', 'incident responder', 'digital forensics examiner', 'malware analyst', 'penetration tester', 'red teamer']
 URL: https://tryhackme.com/room/careersincyber
 Room Code: careersincyber
 
-S.No: 87
+
+S.No: 88
 Name: Security Operations
 Type: ['security', 'SOC', 'security operations', 'security operations center', 'firewall']
 URL: https://tryhackme.com/room/securityoperations
 Room Code: securityoperations
 
-S.No: 88
+
+S.No: 89
 Name: Sandbox Evasion
 Type: ['Blue Team', 'APTs', 'Defence', 'Evasion', 'Sandbox']
 URL: https://tryhackme.com/room/sandboxevasion
 Room Code: sandboxevasion
 
-S.No: 89
+
+S.No: 90
 Name: Kubernetes for Everyone
 Type: ['kubernetes', 'helm', 'k8s', 'kube cluster', 'kubectl']
 URL: https://tryhackme.com/room/kubernetesforyouly
 Room Code: kubernetesforyouly
 
-S.No: 90
+
+S.No: 91
 Name: Intro to Defensive Security
 Type: ['security', 'defensive security', 'incident response', 'threat intelligence', 'malware analysis', 'DFIR', 'SOC', 'SIEM', 'Security Operations Center']
 URL: https://tryhackme.com/room/defensivesecurity
 Room Code: defensivesecurity
 
-S.No: 91
+
+S.No: 92
 Name: Intro to Defensive Security
 Type: ['security', 'defensive security', 'incident response', 'threat intelligence', 'malware analysis', 'DFIR', 'SOC', 'SIEM', 'Security Operations Center']
 URL: https://tryhackme.com/room/defensivesecurityhq
 Room Code: defensivesecurityhq
 
-S.No: 92
+
+S.No: 93
 Name: Intro to Malware Analysis
 Type: ['security', 'malware', 'analysis', 'malware-analysis', 'maldoc', 'virustotal', 'sandbox', 'any.run', 'cuckoo', 'dfir', 'ioc']
 URL: https://tryhackme.com/room/intromalwareanalysis
 Room Code: intromalwareanalysis
 
-S.No: 93
+
+S.No: 94
 Name: KAPE
 Type: ['security', 'kape', 'forensics', 'triage', 'windows', 'incident response']
 URL: https://tryhackme.com/room/kape
 Room Code: kape
 
-S.No: 94
+
+S.No: 95
 Name: PrintNightmare
 Type: ['printnightmare', 'cve-2021-34527']
 URL: https://tryhackme.com/room/printnightmarehpzqlp8
 Room Code: printnightmarehpzqlp8
 
-S.No: 95
+
+S.No: 96
 Name: PWN101
 Type: ['pwn', 'linux', 'binary-exploitation', 'pwntools', 'binex']
 URL: https://tryhackme.com/room/pwn101
 Room Code: pwn101
 
-S.No: 96
+
+S.No: 97
 Name: L2 MAC Flooding & ARP Spoofing
 Type: ['layer2', 'spoofing', 'arp', 'ettercap', 'macof', 'security', 'l2', 'mac', 'mitm', 'maninthemiddle', 'physical', 'gns3', 'flooding', 'network', 'networking']
 URL: https://tryhackme.com/room/layer2
 Room Code: layer2
 
-S.No: 97
+
+S.No: 98
 Name: Network Security
 Type: ['security', 'network', 'Cyber Kill Chain', 'nmap', 'FTP']
 URL: https://tryhackme.com/room/intronetworksecurity
 Room Code: intronetworksecurity
 
-S.No: 98
+
+S.No: 99
 Name: Web Application Security
 Type: ['security', 'web application', 'IDOR', 'Identification and Authentication Failure', 'Broken Access Control', 'Cryptographic Failures']
 URL: https://tryhackme.com/room/introwebapplicationsecurity
 Room Code: introwebapplicationsecurity
 
-S.No: 99
+
+S.No: 100
 Name: Intro to Offensive Security
 Type: ['offensive security']
 URL: https://tryhackme.com/room/introtooffensivesecurity
 Room Code: introtooffensivesecurity
 
-S.No: 100
+
+S.No: 101
 Name: Plotted-LMS
 Type: ['linux', 'e-learn', 'bookings', 'priv-esc']
 URL: https://tryhackme.com/room/plottedlms
 Room Code: plottedlms
 
-S.No: 101
+
+S.No: 102
 Name: Wazuh
 Type: ['wazuh', 'security', 'edr', 'elk', 'analysis', 'log', 'agent', 'log analysis', 'blue team']
 URL: https://tryhackme.com/room/wazuhct
 Room Code: wazuhct
 
-S.No: 102
+
+S.No: 103
 Name: Tech_Supp0rt: 1
 Type: ['RCE', 'file upload', 'sudo', 'custom']
 URL: https://tryhackme.com/room/techsupp0rt1
 Room Code: techsupp0rt1
 
-S.No: 103
+
+S.No: 104
 Name: Intrusion Detection 
 Type: ['security', 'IDS', 'evasion', 'scoring-system']
 URL: https://tryhackme.com/room/idsevasion
 Room Code: idsevasion
 
-S.No: 104
+
+S.No: 105
 Name: MISP
 Type: ['security', 'blue team', 'threat intelligence', 'MISP', 'Information Sharing']
 URL: https://tryhackme.com/room/misp
 Room Code: misp
 
-S.No: 105
+
+S.No: 106
 Name: Living Off the Land
 Type: ['red team', 'sysinternals', 'file execution', 'file operation', 'bypass AppLocker', 'No PowerShell', 'PowerLessShell', 'MSBuild', 'Regsvr32', 'Rundll32']
 URL: https://tryhackme.com/room/livingofftheland
 Room Code: livingofftheland
 
-S.No: 106
+
+S.No: 107
 Name: Ollie
 Type: ['CVE', 'Security', 'Ollie', 'Exploit']
 URL: https://tryhackme.com/room/ollie
 Room Code: ollie
 
-S.No: 107
+
+S.No: 108
 Name: Snort Challenge - The Basics
 Type: ['Snort', 'Traffic Analysis', 'Intrusion', 'Detection', 'Pcap', 'Snort2', 'IDS', 'IPS', 'log4j']
 URL: https://tryhackme.com/room/snortchallenges1
 Room Code: snortchallenges1
 
-S.No: 108
+
+S.No: 109
 Name: TheHive Project
 Type: ['security', 'blue team', 'cyber defense', 'incident response']
 URL: https://tryhackme.com/room/thehiveproject
 Room Code: thehiveproject
 
-S.No: 109
+
+S.No: 110
 Name: Spring4Shell: CVE-2022-22965
 Type: ['spring4shell', 'vulnerability', 'RCE', 'Java', 'Spring', 'CVE-2022-22965', 'Walkthrough', 'Tutorial', 'InitialAccess', 'Beginner', 'MuirlandOracle', 'Spring Core']
 URL: https://tryhackme.com/room/spring4shell
 Room Code: spring4shell
 
-S.No: 110
+
+S.No: 111
 Name: Incident handling with Splunk
 Type: ['security', 'splunk', 'incident handling', 'SIEM', 'OSINT', 'Log Analysis', 'Cyber Kill Chain', 'Investigation', 'Forensics']
 URL: https://tryhackme.com/room/splunk201
 Room Code: splunk201
 
-S.No: 111
+
+S.No: 112
 Name: Bypassing UAC
 Type: ['UAC', 'evasion', 'windows', 'red team', 'privesc']
 URL: https://tryhackme.com/room/bypassinguac
 Room Code: bypassinguac
 
-S.No: 112
+
+S.No: 113
 Name: 0x41haz
 Type: ['security', 'reversing', 'binex', 'radare']
 URL: https://tryhackme.com/room/0x41haz
 Room Code: 0x41haz
 
-S.No: 113
+
+S.No: 114
 Name: Abusing Windows Internals
 Type: ['Windows', 'Evasion', 'Process Injection', 'Red Team', 'Portable Executable', 'DLL Injection', 'PE Injection', 'Process Hollowing']
 URL: https://tryhackme.com/room/abusingwindowsinternals
 Room Code: abusingwindowsinternals
 
-S.No: 114
+
+S.No: 115
 Name: Aratus
 Type: ['security', 'pcap', 'ansible', 'sudo', 'crawling']
 URL: https://tryhackme.com/room/aratus
 Room Code: aratus
 
-S.No: 115
+
+S.No: 116
 Name: Napping
 Type: ['security', 'phishing', 'cyber', 'misconfiguration']
 URL: https://tryhackme.com/room/nappingis1337
 Room Code: nappingis1337
 
-S.No: 116
+
+S.No: 117
 Name: Dirty Pipe: CVE-2022-0847
 Type: ['dirty pipe', 'CVE-2022-0847', 'Linux', 'Kernel', 'Privesc', 'Walkthrough', 'Tutorial', 'Beginner', 'MuirlandOracle', 'dirty', 'pipe']
 URL: https://tryhackme.com/room/dirtypipe
 Room Code: dirtypipe
 
-S.No: 117
+
+S.No: 118
 Name: Runtime Detection Evasion
 Type: ['Windows', 'AMSI', 'C#', 'PowerShell', 'Evasion', 'Red Team', 'Detection', 'Bypass']
 URL: https://tryhackme.com/room/runtimedetectionevasion
 Room Code: runtimedetectionevasion
 
-S.No: 118
+
+S.No: 119
 Name: Operating System Security
 Type: ['security', 'Operating System', 'OS', 'nmap', 'FTP', 'ncat']
 URL: https://tryhackme.com/room/operatingsystemsecurity
 Room Code: operatingsystemsecurity
 
-S.No: 119
+
+S.No: 120
 Name: Intro to Digital Forensics
 Type: ['security', 'digital forensics', 'forensics', 'metadata', 'EXIF']
 URL: https://tryhackme.com/room/introdigitalforensics
 Room Code: introdigitalforensics
 
-S.No: 120
+
+S.No: 121
 Name: Snort Challenge - Live Attacks
 Type: ['Snort', 'Traffic Analysis', 'Intrusion', 'Detection', 'Pcap', 'Snort2', 'IDS', 'IPS']
 URL: https://tryhackme.com/room/snortchallenges2
 Room Code: snortchallenges2
 
-S.No: 121
+
+S.No: 122
 Name: Snort
 Type: ['Snort', 'Traffic Analysis', 'Intrusion', 'Detection', 'Pcap', 'Snort2', 'IDS', 'IPS']
 URL: https://tryhackme.com/room/snort
 Room Code: snort
 
-S.No: 122
+
+S.No: 123
 Name: biteme
 Type: ['php', 'privesc', 'cracking', 'fail2ban']
 URL: https://tryhackme.com/room/biteme
 Room Code: biteme
 
-S.No: 123
+
+S.No: 124
 Name: Intro to C2
 Type: ['Red Team', 'C2', 'Active Directory', 'Armitage']
 URL: https://tryhackme.com/room/introtoc2
 Room Code: introtoc2
 
-S.No: 124
+
+S.No: 125
 Name: Oh My WebServer
 Type: ['security', 'linux', 'beginner', 'new']
 URL: https://tryhackme.com/room/ohmyweb
 Room Code: ohmyweb
 
-S.No: 125
+
+S.No: 126
 Name: Hacking Hadoop
 Type: ['security', 'hadoop', 'datalake', 'bigdata', 'hdfs', 'yarn']
 URL: https://tryhackme.com/room/hackinghadoop
 Room Code: hackinghadoop
 
-S.No: 126
+
+S.No: 127
 Name: Network Security Solutions
 Type: ['security', 'IDS', 'IPS', 'Snort', 'evasion', 'NGNIPS', 'Next-Gen IPS', 'obfuscation', 'encryption', 'socat', 'nmap', 'signature-based', 'anomaly-based', 'HIDS', 'NIDS']
 URL: https://tryhackme.com/room/redteamnetsec
 Room Code: redteamnetsec
 
-S.No: 127
+
+S.No: 128
 Name: Windows Internals
 Type: ['Windows', 'Processes', 'Threads', 'PE Format', 'DLL', 'Windows API']
 URL: https://tryhackme.com/room/windowsinternals
 Room Code: windowsinternals
 
-S.No: 128
+
+S.No: 129
 Name: Flatline
 Type: ['security', 'rce', 'broken permissions']
 URL: https://tryhackme.com/room/flatline
 Room Code: flatline
 
-S.No: 129
+
+S.No: 130
 Name: Insekube
 Type: ['security', 'kubernetes containers', 'kubectl', 'kubernetes', 'grafana', 'lfi']
 URL: https://tryhackme.com/room/insekube
 Room Code: insekube
 
-S.No: 130
+
+S.No: 131
 Name: Junior Security Analyst Intro
 Type: ['analyst', 'security operations', 'SOC', 'SIEM', 'Triage']
 URL: https://tryhackme.com/room/jrsecanalystintrouxo
 Room Code: jrsecanalystintrouxo
 
-S.No: 131
+
+S.No: 132
 Name: Plotted-TMS
 Type: ['security', 'linux', 'rce', 'priv-esc']
 URL: https://tryhackme.com/room/plottedtms
 Room Code: plottedtms
 
-S.No: 132
+
+S.No: 133
 Name: AD Certificate Templates
 Type: ['security', 'active directory', 'ad', 'certificate templates', 'ca', 'certificate authority']
 URL: https://tryhackme.com/room/adcertificatetemplates
 Room Code: adcertificatetemplates
 
-S.No: 133
+
+S.No: 134
 Name: Windows Forensics 2
 Type: ['security', 'forensics', 'blue', 'dfir', 'windows', 'incident-response', 'jumplists', 'lnk-files', 'shortcut', 'timeline', 'triage', "zimmerman's-tools"]
 URL: https://tryhackme.com/room/windowsforensics2
 Room Code: windowsforensics2
 
-S.No: 134
+
+S.No: 135
 Name: Red Team Engagements
 Type: ['Red Team', 'Engagements', 'Planning', 'Documentation', 'MITRE', 'ATT&CK', 'TIBER-EU']
 URL: https://tryhackme.com/room/redteamengagements
 Room Code: redteamengagements
 
-S.No: 135
+
+S.No: 136
 Name: Solar, exploiting log4j
 Type: ['log4j', 'solr', 'cve-2021-44228', 'log4shell']
 URL: https://tryhackme.com/room/solar
 Room Code: solar
 
-S.No: 136
+
+S.No: 137
 Name: Gallery
 Type: ['cms', 'linux', 'sqli', 'rce']
 URL: https://tryhackme.com/room/gallery666
 Room Code: gallery666
 
-S.No: 137
+
+S.No: 138
 Name: Firewalls
 Type: ['firewall', 'firewall evasion', 'decoy', 'mtu', 'nmap', 'evasion', 'fragmentation', 'spoofing', 'port hopping', 'port tunneling', 'NGFW']
 URL: https://tryhackme.com/room/redteamfirewalls
 Room Code: redteamfirewalls
 
-S.No: 138
+
+S.No: 139
 Name: Brute Force Heroes
 Type: ['security', 'brute-forcing', 'patator', 'hydra', 'burp-suite', 'owasp-zap', 'dvwa']
 URL: https://tryhackme.com/room/bruteforceheroes
 Room Code: bruteforceheroes
 
-S.No: 139
+
+S.No: 140
 Name: Red Team Fundamentals
 Type: ['red team', 'kill-chain', 'adversary emulation', 'APT', 'TTP']
 URL: https://tryhackme.com/room/redteamfundamentals
 Room Code: redteamfundamentals
 
-S.No: 140
+
+S.No: 141
 Name: Dear QA
 Type: ['pwn', 'reversing', 'overflow', 'asm', 'bof']
 URL: https://tryhackme.com/room/dearqa
 Room Code: dearqa
 
-S.No: 141
+
+S.No: 142
 Name: Pyramid Of Pain 
 Type: ['security', 'threat hunting', 'threat detection', 'threat response']
 URL: https://tryhackme.com/room/pyramidofpainax
 Room Code: pyramidofpainax
 
-S.No: 142
+
+S.No: 143
 Name: Pwnkit: CVE-2021-4034
 Type: ['polkit', 'pwnkit', 'linux', 'CVE-2021-4034', 'walkthrough', 'vulnerability', 'privesc', 'lpe']
 URL: https://tryhackme.com/room/pwnkit
 Room Code: pwnkit
 
-S.No: 143
+
+S.No: 144
 Name: The Lay of the land
 Type: ['Active Directory', 'Initial Access', 'Network-based Security Solutions', 'Host-based Security Solutions']
 URL: https://tryhackme.com/room/thelayoftheland
 Room Code: thelayoftheland
 
-S.No: 144
+
+S.No: 145
 Name: Security Awareness
 Type: ['Security awareness', 'data breaches', 'account security', 'cyber threats', 'cyber actors', 'phishing']
 URL: https://tryhackme.com/room/securityawarenessintro
 Room Code: securityawarenessintro
 
-S.No: 145
+
+S.No: 146
 Name: ret2libc
 Type: ['#binary', '#ret2libc', '#rop', '#ASLR', '#reverse engineering', '#python']
 URL: https://tryhackme.com/room/ret2libc
 Room Code: ret2libc
 
-S.No: 146
+
+S.No: 147
 Name: Common Attacks
 Type: ['Common Attacks', 'Security Awareness', 'Basics', ' Internet Safety', 'Phishing', 'Ransomware', 'Malware', 'Backups', 'Updates', 'Patches', 'Passwords', 'Authentication', 'Password Managers', 'Social Engineering', 'Mitm', 'Man in the middle', 'Public Networks', 'Public Network Safety']
 URL: https://tryhackme.com/room/commonattacks
 Room Code: commonattacks
 
-S.No: 147
+
+S.No: 148
 Name: Lumberjack Turtle
 Type: ['CVE-2021-44228', 'container escape', 'log4shell']
 URL: https://tryhackme.com/room/lumberjackturtle
 Room Code: lumberjackturtle
 
-S.No: 148
+
+S.No: 149
 Name: Plotted-EMR
 Type: ['priv-esc', 'multisites', 'linux', 'Enumeration']
 URL: https://tryhackme.com/room/plottedemr
 Room Code: plottedemr
 
-S.No: 149
+
+S.No: 150
 Name: SQLMAP
 Type: ['security', 'sqlmap', ' sql injection', 'tools', ' web app', 'sqli']
 URL: https://tryhackme.com/room/sqlmap
 Room Code: sqlmap
 
-S.No: 150
+
+S.No: 151
 Name: Android Malware Analysis 
 Type: ['security', 'android', 'apk']
 URL: https://tryhackme.com/room/androidmalwareanalysis
 Room Code: androidmalwareanalysis
 
-S.No: 151
+
+S.No: 152
 Name: Windows Forensics 1
 Type: ['security', 'forensics', 'registry', 'blue', 'dfir', 'windows', 'incident-response']
 URL: https://tryhackme.com/room/windowsforensics1
 Room Code: windowsforensics1
 
-S.No: 152
+
+S.No: 153
 Name: Hamlet
 Type: ['security', 'web', 'linux']
 URL: https://tryhackme.com/room/hamlet
 Room Code: hamlet
 
-S.No: 153
+
+S.No: 154
 Name: Red Team Threat Intel
 Type: ['Red Team', 'Threat Intelligence', 'CTI', 'TTP', 'TIBER-EU', 'Cyber Kill Chain']
 URL: https://tryhackme.com/room/redteamthreatintel
 Room Code: redteamthreatintel
 
-S.No: 154
+
+S.No: 155
 Name: Conti
 Type: ['conti', 'ransomware', 'splunk', 'MITRE ID S0575']
 URL: https://tryhackme.com/room/contiransomwarehgh
 Room Code: contiransomwarehgh
 
-S.No: 155
+
+S.No: 156
 Name: Phishing Analysis Fundamentals
 Type: ['security', 'phishing', 'emails', 'SMTP', 'IMAP', 'POP3']
 URL: https://tryhackme.com/room/phishingemails1tryoe
 Room Code: phishingemails1tryoe
 
-S.No: 156
+
+S.No: 157
 Name: Shaker
 Type: ['java', 'cve', 'log4j']
 URL: https://tryhackme.com/room/shaker
 Room Code: shaker
 
-S.No: 157
+
+S.No: 158
 Name: Phishing Emails in Action 
 Type: ['security', 'phishing', 'emails', 'any.run']
 URL: https://tryhackme.com/room/phishingemails2rytmuv
 Room Code: phishingemails2rytmuv
 
-S.No: 158
+
+S.No: 159
 Name: Phishing Analysis Tools
 Type: ['phishing', 'emails', 'mail header', 'url scan', 'any.run']
 URL: https://tryhackme.com/room/phishingemails3tryoe
 Room Code: phishingemails3tryoe
 
-S.No: 159
+
+S.No: 160
 Name: Phishing Prevention
 Type: ['phishing', 'emails', 'smtp', 'spf', 'dkim', 'dmarc', 's/mime']
 URL: https://tryhackme.com/room/phishingemails4gkxh
 Room Code: phishingemails4gkxh
 
-S.No: 160
+
+S.No: 161
 Name: The Greenholt Phish
 Type: ['phishing', 'email', 'SOC Analyst']
 URL: https://tryhackme.com/room/phishingemails5fgjlzxc
 Room Code: phishingemails5fgjlzxc
 
-S.No: 161
+
+S.No: 162
 Name: Advent of Cyber 3 (2021)
 Type: ['beginner', 'christmas', 'challenge', 'advent', 'of', 'cyber', 'two', '2']
 URL: https://tryhackme.com/room/adventofcyber3
 Room Code: adventofcyber3
 
-S.No: 162
+
+S.No: 163
 Name: Red Team Recon
 Type: ['security', 'recon-ng', 'maltego', 'dig', 'nslookup', 'ghdb', 'whois', 'traceroute', 'tracert', 'Google Hacking', 'shodan']
 URL: https://tryhackme.com/room/redteamrecon
 Room Code: redteamrecon
 
-S.No: 163
+
+S.No: 164
 Name: Weaponization 
 Type: ['Red Team', 'Scripting', 'WSH', 'HTA', 'VBA', 'PS', 'C2', 'Initial Access', 'Payload Delivery Techniques', 'powercat', 'PowerShell']
 URL: https://tryhackme.com/room/weaponization
 Room Code: weaponization
 
-S.No: 164
+
+S.No: 165
 Name: Road
 Type: ['security', 'pentesting']
 URL: https://tryhackme.com/room/road
 Room Code: road
 
-S.No: 165
+
+S.No: 166
 Name: Carnage
 Type: ['wireshark', 'malware', 'traffic analysis', 'blue team', 'cobalt strike']
 URL: https://tryhackme.com/room/c2carnage
 Room Code: c2carnage
 
-S.No: 166
+
+S.No: 167
 Name: Windows Reversing Intro
 Type: ['security', 're', 'reverse engineering', 'windows', 'reversing', 'x64', 'assembly', 'asm']
 URL: https://tryhackme.com/room/windowsreversingintro
 Room Code: windowsreversingintro
 
-S.No: 167
+
+S.No: 168
 Name: Red Team OPSEC
 Type: ['security', 'OPSEC', 'Red Team', 'Operations Security']
 URL: https://tryhackme.com/room/opsec
 Room Code: opsec
 
-S.No: 168
+
+S.No: 169
 Name: CyberCrafted
 Type: ['challenge', 'injection', 'minecraft', 'linux']
 URL: https://tryhackme.com/room/cybercrafted
 Room Code: cybercrafted
 
-S.No: 169
+
+S.No: 170
 Name: REvil Corp
 Type: ['redline', 'memory analysis', 'ransomware']
 URL: https://tryhackme.com/room/revilcorp
 Room Code: revilcorp
 
-S.No: 170
+
+S.No: 171
 Name: Deja Vu
 Type: ['exiftool', 'cve', 'path exploit', 'privesc', 'webapp', 'web', 'metasploit', 'NinjaJc01']
 URL: https://tryhackme.com/room/dejavu
 Room Code: dejavu
 
-S.No: 171
+
+S.No: 172
 Name: Password Attacks
 Type: ['redteam', 'password attacks', 'Password hash cracking', 'brute-forcing', 'dictionary attacks']
 URL: https://tryhackme.com/room/passwordattacks
 Room Code: passwordattacks
 
-S.No: 172
+
+S.No: 173
 Name: ContainMe
 Type: ['security', 'networking ', 'boot2root']
 URL: https://tryhackme.com/room/containme1
 Room Code: containme1
 
-S.No: 173
+
+S.No: 174
 Name: Squid Game
 Type: ['security', 'blue team', 'maldoc']
 URL: https://tryhackme.com/room/squidgameroom
 Room Code: squidgameroom
 
-S.No: 174
+
+S.No: 175
 Name: Phishing
 Type: ['phishing', 'redteam', 'red-team', 'email', 'GoPhish']
 URL: https://tryhackme.com/room/phishingyl
 Room Code: phishingyl
 
-S.No: 175
+
+S.No: 176
 Name: Minotaur's Labyrinth
 Type: ['security', 'web', 'linux ', 'injection', 'owasp', 'privesc']
 URL: https://tryhackme.com/room/labyrinth8llv
 Room Code: labyrinth8llv
 
-S.No: 176
+
+S.No: 177
 Name: NoSQL injection Basics
 Type: ['nosql', 'web', 'php', 'mongodb']
 URL: https://tryhackme.com/room/nosqlinjectiontutorial
 Room Code: nosqlinjectiontutorial
 
-S.No: 177
+
+S.No: 178
 Name: Frank & Herby make an app
 Type: ['security', 'kubernetes', 'containers', 'challenge']
 URL: https://tryhackme.com/room/frankandherby
 Room Code: frankandherby
 
-S.No: 178
+
+S.No: 179
 Name: Temple
 Type: ['security', 'web', 'hacking', 'flask', 'python', 'enumeration', 'nmap', 'privilege escalation', 'injection']
 URL: https://tryhackme.com/room/temple
 Room Code: temple
 
-S.No: 179
+
+S.No: 180
 Name: Zeno
 Type: ['security', 'rce', 'remote code execution', 'oscp', 'exploit', 'http', 'sql', 'sudo']
 URL: https://tryhackme.com/room/zeno
 Room Code: zeno
 
-S.No: 180
+
+S.No: 181
 Name: CVE-2021-41773/42013
 Type: ['security', 'apache', 'cve-2021-41773', 'cve-2021-42013', 'path-traversal', 'security misconfiguration']
 URL: https://tryhackme.com/room/cve202141773
 Room Code: cve202141773
 
-S.No: 181
+
+S.No: 182
 Name: Learn and win prizes #2
 Type: ['tickets']
 URL: https://tryhackme.com/room/tickets2
 Room Code: tickets2
 
-S.No: 182
+
+S.No: 183
 Name: Linux Privilege Escalation
 Type: ['security', 'linux', 'privilege escalation', 'penetration testing']
 URL: https://tryhackme.com/room/linprivesc
 Room Code: linprivesc
 
-S.No: 183
+
+S.No: 184
 Name: IDE
 Type: ['Enumeration', 'Public Exploit', 'Privilege Escalation', 'FTP', 'SSH']
 URL: https://tryhackme.com/room/ide
 Room Code: ide
 
-S.No: 184
+
+S.No: 185
 Name: Redline
 Type: ['redline', 'forensics', 'memory analysis', 'iocs']
 URL: https://tryhackme.com/room/btredlinejoxr3d
 Room Code: btredlinejoxr3d
 
-S.No: 185
+
+S.No: 186
 Name: Net Sec Challenge
 Type: ['security', 'telnet', 'nmap', 'hydra']
 URL: https://tryhackme.com/room/netsecchallenge
 Room Code: netsecchallenge
 
-S.No: 186
+
+S.No: 187
 Name: Protocols and Servers
 Type: ['security', 'http', 'imap', ' pop3', 'ftp', 'smtp', 'telnet']
 URL: https://tryhackme.com/room/protocolsandservers
 Room Code: protocolsandservers
 
-S.No: 187
+
+S.No: 188
 Name: Nmap Basic Port Scans
 Type: ['security', 'nmap', 'portscan', 'scanning', 'TCP Connect', 'TCP SYN', 'UDP']
 URL: https://tryhackme.com/room/nmap02
 Room Code: nmap02
 
-S.No: 188
+
+S.No: 189
 Name: Nmap Advanced Port Scans
 Type: ['security', 'nmap', 'portscan', 'scanning', 'zombie', 'evasion']
 URL: https://tryhackme.com/room/nmap03
 Room Code: nmap03
 
-S.No: 189
+
+S.No: 190
 Name: Nmap Post Port Scans
 Type: ['security', 'nmap', ' service detection', 'OS detection']
 URL: https://tryhackme.com/room/nmap04
 Room Code: nmap04
 
-S.No: 190
+
+S.No: 191
 Name: Protocols and Servers 2
 Type: ['security', 'hydra', 'tcpdump', 'wireshark', 'CIA']
 URL: https://tryhackme.com/room/protocolsandservers2
 Room Code: protocolsandservers2
 
-S.No: 191
+
+S.No: 192
 Name: Nmap Live Host Discovery
 Type: ['security', 'network', ' networking', ' mapping', 'Host Discovery', 'ARP', 'TCP', 'UDP', 'ICMP', 'Nmap']
 URL: https://tryhackme.com/room/nmap01
 Room Code: nmap01
 
-S.No: 192
+
+S.No: 193
 Name: Active Reconnaissance
 Type: ['security', 'networking', ' network', ' linux', 'telnet', 'netcat', 'traceroute', 'ping']
 URL: https://tryhackme.com/room/activerecon
 Room Code: activerecon
 
-S.No: 193
+
+S.No: 194
 Name: Passive Reconnaissance
 Type: ['security', 'reconnaissance', ' recon', ' footprinting', ' passive', 'dig', 'whois', 'nslookup', 'DNS', 'domains', 'shodan', 'dnsdumpster']
 URL: https://tryhackme.com/room/passiverecon
 Room Code: passiverecon
 
-S.No: 194
+
+S.No: 195
 Name: Jason
 Type: ['security', 'nodejs', 'deserialization', 'web', 'webapp', 'npm', 'gtfobins', 'gtfo', 'js', 'json', 'node', 'jason', 'CVE-2017-5941', 'serialization', 'cve', 'insecure-deserialization']
 URL: https://tryhackme.com/room/jason
 Room Code: jason
 
-S.No: 195
+
+S.No: 196
 Name: Masterminds
 Type: ['security', 'traffic analysis', 'brim', 'packet analysis']
 URL: https://tryhackme.com/room/mastermindsxlq
 Room Code: mastermindsxlq
 
-S.No: 196
+
+S.No: 197
 Name: Introduction To Honeypots
 Type: ['security', 'honeypots', 'blue team', 'malware analysis', 'Cowrie']
 URL: https://tryhackme.com/room/introductiontohoneypots
 Room Code: introductiontohoneypots
 
-S.No: 197
+
+S.No: 198
 Name: SQL Injection
 Type: ['Databases', 'MySQL', 'SQL', 'SQLi', 'Injection', 'In-Band SQL', 'Blind SQL']
 URL: https://tryhackme.com/room/sqlinjectionlm
 Room Code: sqlinjectionlm
 
-S.No: 198
+
+S.No: 199
 Name: File Inclusion
 Type: ['Vulnerabilities ', 'LFI', 'RFI', 'Directory Traversal', 'File inclusion', 'Webapp']
 URL: https://tryhackme.com/room/fileinc
 Room Code: fileinc
 
-S.No: 199
+
+S.No: 200
 Name: Cross-site Scripting
 Type: ['XSS', 'Cross-Site Scripting', 'DOM', 'Reflected XSS', 'Stored XSS', 'Blind XSS', 'Polyglot']
 URL: https://tryhackme.com/room/xssgi
 Room Code: xssgi
 
-S.No: 200
+
+S.No: 201
 Name: IDOR
 Type: ['security']
 URL: https://tryhackme.com/room/idor
 Room Code: idor
 
-S.No: 201
+
+S.No: 202
 Name: Command Injection
 Type: ['command injection', ' web', 'vulnerability', 'web app', 'module', 'rce', 'remote code execution', 'payload', 'blind command injection', 'verbose command injection']
 URL: https://tryhackme.com/room/oscommandinjection
 Room Code: oscommandinjection
 
-S.No: 202
+
+S.No: 203
 Name: Content Discovery
 Type: ['security']
 URL: https://tryhackme.com/room/contentdiscovery
 Room Code: contentdiscovery
 
-S.No: 203
+
+S.No: 204
 Name: Lockdown
 Type: ['web', 'linux']
 URL: https://tryhackme.com/room/lockdown
 Room Code: lockdown
 
-S.No: 204
+
+S.No: 205
 Name: Atlas
 Type: ['windows', 'guided', 'hybrid-challenge', 'beginner', 'VNC', 'ThinVNC', 'PrintNightmare', 'Atlas', 'MuirlandOracle']
 URL: https://tryhackme.com/room/atlas
 Room Code: atlas
 
-S.No: 205
+
+S.No: 206
 Name: PalsForLife
 Type: ['security', 'kubernetes', 'ctf', 'john']
 URL: https://tryhackme.com/room/palsforlife
 Room Code: palsforlife
 
-S.No: 206
+
+S.No: 207
 Name: Metasploit: Meterpreter
 Type: ['security', 'penetration testing', 'Windows', 'meterpreter', 'metasploit', ' post-exploitation']
 URL: https://tryhackme.com/room/meterpreter
 Room Code: meterpreter
 
-S.No: 207
+
+S.No: 208
 Name: Metasploit: Introduction 
 Type: ['security', 'metasploit', 'msfconsole']
 URL: https://tryhackme.com/room/metasploitintro
 Room Code: metasploitintro
 
-S.No: 208
+
+S.No: 209
 Name: Metasploit: Exploitation
 Type: ['security', 'penetration testing']
 URL: https://tryhackme.com/room/metasploitexploitation
 Room Code: metasploitexploitation
 
-S.No: 209
+
+S.No: 210
 Name: Vulnerability Capstone
 Type: ['vulnerability', 'capstone', 'web application', 'exploit', 'module', 'vulnerability module', 'RCE', ' Remote Code Exeuction']
 URL: https://tryhackme.com/room/vulnerabilitycapstone
 Room Code: vulnerabilitycapstone
 
-S.No: 210
+
+S.No: 211
 Name: Exploit Vulnerabilities
 Type: ['vulnerabilities', 'module', 'webapp', 'exploit']
 URL: https://tryhackme.com/room/exploitingavulnerabilityv2
 Room Code: exploitingavulnerabilityv2
 
-S.No: 211
+
+S.No: 212
 Name: Vulnerabilities 101
 Type: ['cve', 'exploit', 'vulnerabilities', 'webapp', 'research', 'exploitdb', 'nvd', 'vpr']
 URL: https://tryhackme.com/room/vulnerabilities101
 Room Code: vulnerabilities101
 
-S.No: 212
+
+S.No: 213
 Name: Empline
 Type: ['linux', 'web', 'privilege escalation', 'enumeration']
 URL: https://tryhackme.com/room/empline
 Room Code: empline
 
-S.No: 213
+
+S.No: 214
 Name: Burp Suite: Intruder
 Type: ['burpsuite', 'intruder', 'fuzzing', 'webapp', 'tutorial', 'beginner']
 URL: https://tryhackme.com/room/burpsuiteintruder
 Room Code: burpsuiteintruder
 
-S.No: 214
+
+S.No: 215
 Name: Bypass Disable Functions
 Type: ['web', 'file upload']
 URL: https://tryhackme.com/room/bypassdisablefunctions
 Room Code: bypassdisablefunctions
 
-S.No: 215
+
+S.No: 216
 Name: Burp Suite: The Basics
 Type: ['Burp Suite', 'Webapp', 'Tutorial', 'Toolkit', 'Basics', 'Burp', 'Burp Community']
 URL: https://tryhackme.com/room/burpsuitebasics
 Room Code: burpsuitebasics
 
-S.No: 216
+
+S.No: 217
 Name: Hip Flask
 Type: ['walkthrough', 'attack methodology', 'flask', 'cvss', 'pentest', 'methodology']
 URL: https://tryhackme.com/room/hipflask
 Room Code: hipflask
 
-S.No: 217
+
+S.No: 218
 Name: Pentesting Fundamentals
 Type: ['cybersecurity', 'framework', 'penetration testing', 'ethics', 'standards', 'review', 'OSSTM', 'OWASP', 'NIST', 'NCSC', 'NCSC CAF', 'ROE', 'scope']
 URL: https://tryhackme.com/room/pentestingfundamentals
 Room Code: pentestingfundamentals
 
-S.No: 218
+
+S.No: 219
 Name: Burp Suite: Extender
 Type: ['Burpsuite', 'Extender', 'BApp', 'Extensions', 'Tutorial', 'Walkthrough']
 URL: https://tryhackme.com/room/burpsuiteextender
 Room Code: burpsuiteextender
 
-S.No: 219
+
+S.No: 220
 Name: Burp Suite: Other Modules
 Type: ['Burpsuite', 'Decoder', 'Comparer', 'Sequencer', 'Tutorial', 'Walkthrough']
 URL: https://tryhackme.com/room/burpsuiteom
 Room Code: burpsuiteom
 
-S.No: 220
+
+S.No: 221
 Name: Burp Suite: Repeater
 Type: ['Burpsuite', 'Repeater', 'Tutorial', 'Walkthrough']
 URL: https://tryhackme.com/room/burpsuiterepeater
 Room Code: burpsuiterepeater
 
-S.No: 221
+
+S.No: 222
 Name: Principles of Security
 Type: ['cia triad', 'information security', 'incidence response', 'threat model', 'threat modelling', 'biba model', 'bell-la pedula model', 'stride']
 URL: https://tryhackme.com/room/principlesofsecurity
 Room Code: principlesofsecurity
 
-S.No: 222
+
+S.No: 223
 Name: Fortress
 Type: ['linux', 'ctf', 'reversing', 'jailbreak', 'hash-collision', 'library-load']
 URL: https://tryhackme.com/room/fortress
 Room Code: fortress
 
-S.No: 223
+
+S.No: 224
 Name: Subdomain Enumeration
 Type: ['security']
 URL: https://tryhackme.com/room/subdomainenumeration
 Room Code: subdomainenumeration
 
-S.No: 224
+
+S.No: 225
 Name: Windows x64 Assembly
 Type: ['assembly', 'x64', 'windows', 'reverse engineering', 'binary', 'reverse', 're', 'x86_64', 'fastcall']
 URL: https://tryhackme.com/room/win64assembly
 Room Code: win64assembly
 
-S.No: 225
+
+S.No: 226
 Name: Dunkle Materie
 Type: ['security', 'malware analysis', 'procdot']
 URL: https://tryhackme.com/room/dunklematerieptxc9
 Room Code: dunklematerieptxc9
 
-S.No: 226
+
+S.No: 227
 Name: Wordpress: CVE-2021-29447
 Type: ['CVE-2021-29447', 'xxe', 'Webapp', 'wordpress']
 URL: https://tryhackme.com/room/wordpresscve202129447
 Room Code: wordpresscve202129447
 
-S.No: 227
+
+S.No: 228
 Name: SSRF
 Type: ['security']
 URL: https://tryhackme.com/room/ssrfqi
 Room Code: ssrfqi
 
-S.No: 228
+
+S.No: 229
 Name: Intro To Pwntools
 Type: ['binary exploit', 'pwntools', 'buffer overflow', 'exploit development']
 URL: https://tryhackme.com/room/introtopwntools
 Room Code: introtopwntools
 
-S.No: 229
+
+S.No: 230
+Name: Intro to Windows
+Type: ['security', 'windows', 'intro']
+URL: https://tryhackme.com/room/intro2winold
+Room Code: intro2winold
+
+
+S.No: 231
 Name: Uranium CTF
 Type: ['phishing', 'security']
 URL: https://tryhackme.com/room/uranium
 Room Code: uranium
 
-S.No: 230
+
+S.No: 232
 Name: Authentication Bypass
 Type: ['security', 'Auth', 'bypass', 'ffuf', 'enum', 'bruteforce']
 URL: https://tryhackme.com/room/authenticationbypass
 Room Code: authenticationbypass
 
-S.No: 231
+
+S.No: 233
 Name: Crocc Crew
 Type: ['security', 'backdoor', 'exploit', 'analysis']
 URL: https://tryhackme.com/room/crocccrew
 Room Code: crocccrew
 
-S.No: 232
+
+S.No: 234
 Name: GameBuzz
 Type: ['security', 'deserialization ', 'pickle', 'privesc']
 URL: https://tryhackme.com/room/gamebuzz
 Room Code: gamebuzz
 
-S.No: 233
+
+S.No: 235
 Name: Walking An Application
 Type: ['security']
 URL: https://tryhackme.com/room/walkinganapplication
 Room Code: walkinganapplication
 
-S.No: 234
+
+S.No: 236
 Name: Chronicle
 Type: ['security', 'bufferoverflow']
 URL: https://tryhackme.com/room/chronicle
 Room Code: chronicle
 
-S.No: 235
+
+S.No: 237
 Name: Super-Spam
 Type: ['security', 'web']
 URL: https://tryhackme.com/room/superspamr
 Room Code: superspamr
 
-S.No: 236
+
+S.No: 238
 Name: Python Basics
 Type: ['python', 'programming', 'bitcoin']
 URL: https://tryhackme.com/room/pythonbasics
 Room Code: pythonbasics
 
-S.No: 237
+
+S.No: 239
 Name: Python for Pentesters
 Type: ['security', 'python', 'pentesting', ' automation', ' scripting']
 URL: https://tryhackme.com/room/pythonforcybersecurity
 Room Code: pythonforcybersecurity
 
-S.No: 238
+
+S.No: 240
 Name: PowerShell for Pentesters
 Type: ['security', 'windows', 'powershell']
 URL: https://tryhackme.com/room/powershellforpentesters
 Room Code: powershellforpentesters
 
-S.No: 239
+
+S.No: 241
 Name: Mobile Malware Analysis
 Type: ['security', 'malware', 'Analysis', 'android', 'mobsf']
 URL: https://tryhackme.com/room/mma
 Room Code: mma
 
-S.No: 240
+
+S.No: 242
 Name: CMSpit
 Type: ['MongoDB', 'Webapp', 'RCE']
 URL: https://tryhackme.com/room/cmspit
 Room Code: cmspit
 
-S.No: 241
+
+S.No: 243
 Name: VulnNet: Active
 Type: ['windows server', 'enumeration', 'powershell', 'command injection', 'active directory']
 URL: https://tryhackme.com/room/vulnnetactive
 Room Code: vulnnetactive
 
-S.No: 242
+
+S.No: 244
+Name: NIS - Cloud Essentials
+Type: ['security', 'cloud', 'hardware', 'sofware', 'PaaS', 'SaaS', 'IaaS', 'azure', 'aws', 'google', 'Cloud Security']
+URL: https://tryhackme.com/room/niscloudessentials
+Room Code: niscloudessentials
+
+
+S.No: 245
 Name: Sweettooth Inc.
 Type: ['security', 'database']
 URL: https://tryhackme.com/room/sweettoothinc
 Room Code: sweettoothinc
 
-S.No: 243
+
+S.No: 246
 Name: Rocket
 Type: ['security', 'rocket', 'penetration-test', 'pentest', 'TheCyberGeek']
 URL: https://tryhackme.com/room/rocket
 Room Code: rocket
 
-S.No: 244
+
+S.No: 247
 Name: Metamorphosis
 Type: ['security', 'rsync ', 'sniff', 'sql injection']
 URL: https://tryhackme.com/room/metamorphosis
 Room Code: metamorphosis
 
-S.No: 245
+
+S.No: 248
 Name: RazorBlack
 Type: ['Active Directory', 'Passive Directory', 'Three headed dog', 'Bloodhound']
 URL: https://tryhackme.com/room/raz0rblack
 Room Code: raz0rblack
 
-S.No: 246
+
+S.No: 249
 Name: Linux Function Hooking
 Type: ['security', 'c programming', 'linux', 'LD_PRELOAD']
 URL: https://tryhackme.com/room/linuxfunctionhooking
 Room Code: linuxfunctionhooking
 
-S.No: 247
+
+S.No: 250
 Name: ffuf
 Type: ['security', 'ffuf', 'enumeration', 'fuzzing', 'web', 'bruteforce']
 URL: https://tryhackme.com/room/ffuf
 Room Code: ffuf
 
-S.No: 248
+
+S.No: 251
 Name: Learn and win prizes
 Type: ['tickets']
 URL: https://tryhackme.com/room/tickets1
 Room Code: tickets1
 
-S.No: 249
+
+S.No: 252
 Name: Windows Fundamentals 3
 Type: ['windows', 'fundamentals', 'Windows security', 'BitLocker', 'TPM']
 URL: https://tryhackme.com/room/windowsfundamentals3xzx
 Room Code: windowsfundamentals3xzx
 
-S.No: 250
+
+S.No: 253
 Name: Cold VVars
 Type: ['security', 'XPath Injection']
 URL: https://tryhackme.com/room/coldvvars
 Room Code: coldvvars
 
-S.No: 251
+
+S.No: 254
 Name: Splunk 3
 Type: ['splunk', 'siem', 'bots', 'soc']
 URL: https://tryhackme.com/room/splunk3zs
 Room Code: splunk3zs
 
-S.No: 252
+
+S.No: 255
 Name: Git and Crumpets
 Type: ['security', 'ctf', 'git', 'hardened']
 URL: https://tryhackme.com/room/gitandcrumpets
 Room Code: gitandcrumpets
 
-S.No: 253
+
+S.No: 256
 Name: What is Networking?
 Type: ['networking', 'networking fundamentals', 'networking labs', 'beginner', 'static sites', 'module', 'networking module', 'ping', 'network tools', 'what is networking', 'what is the internet', 'internet', 'icmp', 'mac']
 URL: https://tryhackme.com/room/whatisnetworking
 Room Code: whatisnetworking
 
-S.No: 254
+
+S.No: 257
 Name: OSI Model
 Type: ['networking', 'networking fundamentals', 'networking labs', 'beginner', 'static sites', 'module', 'networking module', 'osi model', 'framework', 'network', 'tcp', 'udp']
 URL: https://tryhackme.com/room/osimodelzi
 Room Code: osimodelzi
 
-S.No: 255
+
+S.No: 258
 Name: Packets & Frames
 Type: ['networking', 'ports', 'packets', 'frames', 'handshake', 'tcpip', 'tcp', 'static labs', 'beginner', 'module', 'static sites', 'labs', 'UDP']
 URL: https://tryhackme.com/room/packetsframes
 Room Code: packetsframes
 
-S.No: 256
+
+S.No: 259
 Name: Intro to LAN
 Type: ['networking', 'networking fundamentals', 'dhcp', 'arp', 'lan', 'topologies', 'networking labs', 'beginner', 'static sites', 'module', 'networking module']
 URL: https://tryhackme.com/room/introtolan
 Room Code: introtolan
 
-S.No: 257
+
+S.No: 260
 Name: Extending Your Network
 Type: ['networking', 'vpn', 'lan', 'technology', 'network', 'networks', 'static labs', 'interactive', 'firewall', 'port forwarding', 'intro to networking', ' networking module', 'lan technologies', 'LAN']
 URL: https://tryhackme.com/room/extendingyournetwork
 Room Code: extendingyournetwork
 
-S.No: 258
+
+S.No: 261
 Name: Couch
 Type: ['web', 'docker', 'linux', 'couchdb']
 URL: https://tryhackme.com/room/couch
 Room Code: couch
 
-S.No: 259
+
+S.No: 262
 Name: Polkit: CVE-2021-3560
 Type: ['polkit', 'ubuntu 20.04', 'CVE-2021-3560', 'walkthrough', 'vulnerability']
 URL: https://tryhackme.com/room/polkit
 Room Code: polkit
 
-S.No: 260
+
+S.No: 263
 Name: Windows Fundamentals 2
 Type: ['windows', 'fundamentals', 'UAC', 'MSConfig', 'Resmon', 'Registry']
 URL: https://tryhackme.com/room/windowsfundamentals2x0x
 Room Code: windowsfundamentals2x0x
 
-S.No: 261
+
+S.No: 264
 Name: Windows Fundamentals 1
 Type: ['windows', 'fundamentals']
 URL: https://tryhackme.com/room/windowsfundamentals1xbx
 Room Code: windowsfundamentals1xbx
 
-S.No: 262
+
+S.No: 265
 Name: Juicy Details
 Type: ['Blue Team', 'Security Operations', 'Logs', 'Web', 'Networking']
 URL: https://tryhackme.com/room/juicydetails
 Room Code: juicydetails
 
-S.No: 263
+
+S.No: 266
 Name: Fusion Corp
 Type: ['security', 'windows']
 URL: https://tryhackme.com/room/fusioncorp
 Room Code: fusioncorp
 
-S.No: 264
+
+S.No: 267
 Name: Mustacchio
 Type: ['xxe', 'enumeration', 'privesc', 'web']
 URL: https://tryhackme.com/room/mustacchio
 Room Code: mustacchio
 
-S.No: 265
+
+S.No: 268
 Name: That's The Ticket
 Type: ['security', 'web', 'xss', 'dns']
 URL: https://tryhackme.com/room/thatstheticket
 Room Code: thatstheticket
 
-S.No: 266
+
+S.No: 269
 Name: Cat Pictures
 Type: ['security', 'phpbb', 'forum', 'docker']
 URL: https://tryhackme.com/room/catpictures
 Room Code: catpictures
 
-S.No: 267
+
+S.No: 270
 Name: Linux Server Forensics 
 Type: ['security', 'forensics', 'Linux']
 URL: https://tryhackme.com/room/linuxserverforensics
 Room Code: linuxserverforensics
 
-S.No: 268
+
+S.No: 271
 Name: Learning Cyber Security
 Type: ['cyber fundamentals']
 URL: https://tryhackme.com/room/beginnerpathintro
 Room Code: beginnerpathintro
 
-S.No: 269
+
+S.No: 272
 Name: Disk Analysis & Autopsy
 Type: ['security', 'autopsy', 'forensics']
 URL: https://tryhackme.com/room/autopsy2ze0
 Room Code: autopsy2ze0
 
-S.No: 270
+
+S.No: 273
 Name: Linux Fundamentals Part 3
 Type: ['linux', 'beginner', 'linux fundamentals', 'new', 'sysadmin']
 URL: https://tryhackme.com/room/linuxfundamentalspart3
 Room Code: linuxfundamentalspart3
 
-S.No: 271
+
+S.No: 274
 Name: Linux Fundamentals Part 2
 Type: ['linux', 'beginner', 'linux fundamentals', 'new', 'sysadmin']
 URL: https://tryhackme.com/room/linuxfundamentalspart2
 Room Code: linuxfundamentalspart2
 
-S.No: 272
+
+S.No: 275
 Name: Linux Fundamentals Part 1
 Type: ['linux', 'beginner', 'linux fundamentals', 'new', 'sysadmin']
 URL: https://tryhackme.com/room/linuxfundamentalspart1
 Room Code: linuxfundamentalspart1
 
-S.No: 273
+
+S.No: 276
 Name: Splunk 2
 Type: ['splunk', 'siem', 'bots', 'soc']
 URL: https://tryhackme.com/room/splunk2gcd5
 Room Code: splunk2gcd5
 
-S.No: 274
+
+S.No: 277
 Name: SQHell
 Type: ['web', 'mysql', 'sql injection', 'sqli']
 URL: https://tryhackme.com/room/sqhell
 Room Code: sqhell
 
-S.No: 275
+
+S.No: 278
 Name: Autopsy
 Type: ['windows', 'forensics', 'incident response', 'autopsy']
 URL: https://tryhackme.com/room/btautopsye0
 Room Code: btautopsye0
 
-S.No: 276
+
+S.No: 279
 Name: VulnNet: Roasted
 Type: ['windows server', 'active directory', 'enumeration', 'roasting', 'powershell']
 URL: https://tryhackme.com/room/vulnnetroasted
 Room Code: vulnnetroasted
 
-S.No: 277
+
+S.No: 280
 Name: Red Stone One Carat
 Type: ['security', 'ruby', 'scripting']
 URL: https://tryhackme.com/room/redstoneonecarat
 Room Code: redstoneonecarat
 
-S.No: 278
+
+S.No: 281
 Name: HTTP in detail
 Type: ['HTTP', 'HTTPS', 'Status Codes', 'Headers', 'Cookies']
 URL: https://tryhackme.com/room/httpindetail
 Room Code: httpindetail
 
-S.No: 279
+
+S.No: 282
 Name: Putting it all together
 Type: ['HTTP', 'HTML', 'Load Balancer', 'CDN', 'WAF', 'Web Application Firewall', 'Web Server']
 URL: https://tryhackme.com/room/puttingitalltogether
 Room Code: puttingitalltogether
 
-S.No: 280
+
+S.No: 283
 Name: DNS in detail
 Type: ['DNS', 'Domain Name System', 'TLD']
 URL: https://tryhackme.com/room/dnsindetail
 Room Code: dnsindetail
 
-S.No: 281
+
+S.No: 284
 Name: Binary Heaven
 Type: ['security', 'binary', 'reversing']
 URL: https://tryhackme.com/room/binaryheaven
 Room Code: binaryheaven
 
-S.No: 282
+
+S.No: 285
 Name: VulnNet: Internal
 Type: ['linux', 'enumeration', 'pivoting', 'privilege escalation']
 URL: https://tryhackme.com/room/vulnnetinternal
 Room Code: vulnnetinternal
 
-S.No: 283
+
+S.No: 286
 Name: TShark
 Type: ['security', 'networking', 'wireshark', 'tshark', 'PCAP', 'DNS Exfil']
 URL: https://tryhackme.com/room/tshark
 Room Code: tshark
 
-S.No: 284
+
+S.No: 287
 Name: Unstable Twin
 Type: ['security', 'Services', 'Sql Injection', 'Steganography ']
 URL: https://tryhackme.com/room/unstabletwin
 Room Code: unstabletwin
 
-S.No: 285
+
+S.No: 288
 Name: OverlayFS - CVE-2021-3493
 Type: ['privesc', 'linux', 'ubuntu', 'kernel', 'overlay', 'CVE-2021-3493']
 URL: https://tryhackme.com/room/overlayfs
 Room Code: overlayfs
 
-S.No: 286
+
+S.No: 289
+Name: Splunk 101
+Type: ['siem', 'splunk', 'logs']
+URL: https://tryhackme.com/room/splunk101old
+Room Code: splunk101old
+
+
+S.No: 290
 Name: Year of the Jellyfish
 Type: ['linux', 'jellyfin', 'cve', 'code', 'cert-style', 'muirlandoracle', 'New Year', 'newyear']
 URL: https://tryhackme.com/room/yearofthejellyfish
 Room Code: yearofthejellyfish
 
-S.No: 287
+
+S.No: 291
 Name: VulnNet: dotjar
 Type: ['linux', 'web', 'java', 'privilege escalation']
 URL: https://tryhackme.com/room/vulnnetdotjar
 Room Code: vulnnetdotjar
 
-S.No: 288
+
+S.No: 292
 Name: M4tr1x: Exit Denied
 Type: ['python', 'sql', 'account hijacking', 'linux', 'otp', 'ctf']
 URL: https://tryhackme.com/room/m4tr1xexitdenied
 Room Code: m4tr1xexitdenied
 
-S.No: 289
+
+S.No: 293
 Name: Different CTF
 Type: ['security', 'stego', 'reverse', 'sucrack']
 URL: https://tryhackme.com/room/adana
 Room Code: adana
 
-S.No: 290
+
+S.No: 294
 Name: Web Enumeration
 Type: ['security', 'gobuster', 'enumeration', 'directory', 'dns', 'virtual host', 'brute-force', 'tools']
 URL: https://tryhackme.com/room/webenumerationv2
 Room Code: webenumerationv2
 
-S.No: 291
+
+S.No: 295
 Name: Cooctus Stories
 Type: ['security', 'nfs', 'web', 'cooctus-clan', 'linux']
 URL: https://tryhackme.com/room/cooctusadventures
 Room Code: cooctusadventures
 
-S.No: 292
+
+S.No: 296
 Name: SSTI
 Type: ['Security', 'SSTI', 'Web']
 URL: https://tryhackme.com/room/learnssti
 Room Code: learnssti
 
-S.No: 293
+
+S.No: 297
 Name: Sakura Room
 Type: ['OSINT', 'SOCMINT', 'SOCIAL MEDIA', 'INVESTIGATION']
 URL: https://tryhackme.com/room/sakura
 Room Code: sakura
 
-S.No: 294
+
+S.No: 298
 Name: AllSignsPoint2Pwnage
 Type: ['security', 'windows', 'enumeration', 'a/v evasion', 'password cracking', 'php']
 URL: https://tryhackme.com/room/allsignspoint2pwnage
 Room Code: allsignspoint2pwnage
 
-S.No: 295
+
+S.No: 299
 Name: VulnNet: dotpy
 Type: ['linux', 'web', 'python', 'privilege escalation']
 URL: https://tryhackme.com/room/vulnnetdotpy
 Room Code: vulnnetdotpy
 
-S.No: 296
+
+S.No: 300
 Name: Memory Forensics
 Type: ['forensics', 'memory', 'volatility']
 URL: https://tryhackme.com/room/memoryforensics
 Room Code: memoryforensics
 
-S.No: 297
+
+S.No: 301
+Name: USTOUN
+Type: ['activedirectory', 'windows', 'crackmapexec', 'gpo']
+URL: https://tryhackme.com/room/ustoun
+Room Code: ustoun
+
+
+S.No: 302
 Name: GLITCH
 Type: ['web', 'node', 'rce', 'firefox']
 URL: https://tryhackme.com/room/glitch
 Room Code: glitch
 
-S.No: 298
+
+S.No: 303
 Name: Debug
 Type: ['security', 'deserialization', 'php', 'apache']
 URL: https://tryhackme.com/room/debug
 Room Code: debug
 
-S.No: 299
+
+S.No: 304
 Name: How websites work
 Type: ['web', 'HTML', 'JS', 'Injection', 'Javascript']
 URL: https://tryhackme.com/room/howwebsiteswork
 Room Code: howwebsiteswork
 
-S.No: 300
+
+S.No: 305
 Name: SafeZone
 Type: ['server', 'python', 'web application', 'enumeration']
 URL: https://tryhackme.com/room/safezone
 Room Code: safezone
 
-S.No: 301
+
+S.No: 306
 Name: VulnNet: Node
 Type: ['linux', 'web', 'javascript', 'privilege escalation']
 URL: https://tryhackme.com/room/vulnnetnode
 Room Code: vulnnetnode
 
-S.No: 302
+
+S.No: 307
 Name: pyLon
 Type: ['steg', 'scripting', 'security']
 URL: https://tryhackme.com/room/pylonzf
 Room Code: pylonzf
 
-S.No: 303
+
+S.No: 308
 Name: KaffeeSec - SoMeSINT
 Type: ['security', 'socmint', 'osint', 'infosec']
 URL: https://tryhackme.com/room/somesint
 Room Code: somesint
 
-S.No: 304
+
+S.No: 309
 Name: Wreath
 Type: ['pivoting', 'empire', 'av evasion', 'network', 'wreath', 'beginner', 'easy', 'git', 'socat', 'chisel', 'sshuttle', 'proxy', 'forwarding', 'c2', 'antivirus', 'c#', 'obfuscation']
 URL: https://tryhackme.com/room/wreath
 Room Code: wreath
 
-S.No: 305
+
+S.No: 310
 Name: Attacking ICS Plant #2
 Type: ['security', 'ics', 'ot']
 URL: https://tryhackme.com/room/attackingics2
 Room Code: attackingics2
 
-S.No: 306
+
+S.No: 311
 Name: Enterprise
 Type: ['AD', 'Active Directory', 'Kerberos', 'Real World', 'OSINT']
 URL: https://tryhackme.com/room/enterprise
 Room Code: enterprise
 
-S.No: 307
+
+S.No: 312
 Name: VulnNet
 Type: ['linux', 'web', 'php', 'privilege escalation']
 URL: https://tryhackme.com/room/vulnnet1
 Room Code: vulnnet1
 
-S.No: 308
+
+S.No: 313
 Name: OpenVAS 
 Type: ['OpenVAS', 'Vulnerability Management', 'Blue Team', 'Security Operations', 'Monitoring', 'Logging']
 URL: https://tryhackme.com/room/openvas
 Room Code: openvas
 
-S.No: 309
+
+S.No: 314
 Name: Tokyo Ghoul
 Type: ['security', 'web', 'hash', 'lfi']
 URL: https://tryhackme.com/room/tokyoghoul666
 Room Code: tokyoghoul666
 
-S.No: 310
+
+S.No: 315
 Name: h4cked
 Type: ['security', 'forensics', 'wireshark', 'packet capture', 'ftp', 'php', 'shell', 'reverse shell', 'rootkit', 'passwords', 'sudo', 'web shell', 'hacking', 'hydra', 'backdoor', 'medusa']
 URL: https://tryhackme.com/room/h4cked
 Room Code: h4cked
 
-S.No: 311
+
+S.No: 316
 Name: Badbyte
 Type: ['ftp', 'enumeration', 'port forwarding', 'cve', 'cms']
 URL: https://tryhackme.com/room/badbyte
 Room Code: badbyte
 
-S.No: 312
+
+S.No: 317
 Name: broker
 Type: ['message broker']
 URL: https://tryhackme.com/room/broker
 Room Code: broker
 
-S.No: 313
+
+S.No: 318
 Name: DNS Manipulation
 Type: ['security', 'data', 'exfiltration', 'dns', 'infiltration', 'tunneling']
 URL: https://tryhackme.com/room/dnsmanipulation
 Room Code: dnsmanipulation
 
-S.No: 314
+
+S.No: 319
 Name: Wekor
 Type: ['security', 'wordpress', 'sqli', 'vhost']
 URL: https://tryhackme.com/room/wekorra
 Room Code: wekorra
 
-S.No: 315
+
+S.No: 320
 Name: Team
 Type: ['security', 'boot2root', 'Enumeration', 'Misconfiguration', 'LFI']
 URL: https://tryhackme.com/room/teamcw
 Room Code: teamcw
 
-S.No: 316
+
+S.No: 321
+Name: THREAT INTELLIGENCE
+Type: ['security', 'Blue Team', 'Red Team', 'SOC Analyst', 'Threat Intelligence', 'FireEye', 'Solarwinds', 'SUNBURST', 'Malware', 'IOC', 'Incident of Compromise', 'APT', 'C2', 'Purple Team', 'Steganography', 'Encoding', 'Base64']
+URL: https://tryhackme.com/room/threatintelligence
+Room Code: threatintelligence
+
+
+S.No: 322
 Name: Linux Backdoors
 Type: ['security', 'linux', 'backdoor']
 URL: https://tryhackme.com/room/linuxbackdoors
 Room Code: linuxbackdoors
 
-S.No: 317
+
+S.No: 323
 Name: JPGChat
 Type: ['python3', 'os', 'chatting', 'report', 'OSINT']
 URL: https://tryhackme.com/room/jpgchat
 Room Code: jpgchat
 
-S.No: 318
+
+S.No: 324
 Name: REloaded
 Type: ['Reverse Engineering ', 'reversing  ', 'crypto']
 URL: https://tryhackme.com/room/reloaded
 Room Code: reloaded
 
-S.No: 319
+
+S.No: 325
 Name: Lunizz CTF
 Type: ['security', 'script', 'enumerate', 'mysql', 'sensitive information disclosu', 'default creds', 'encryption']
 URL: https://tryhackme.com/room/lunizzctfnd
 Room Code: lunizzctfnd
 
-S.No: 320
+
+S.No: 326
 Name: Cryptography for Dummies
 Type: ['security', 'cryptography', 'easy']
 URL: https://tryhackme.com/room/cryptographyfordummies
 Room Code: cryptographyfordummies
 
-S.No: 321
+
+S.No: 327
 Name: magician
 Type: ['CVE-2016-3714']
 URL: https://tryhackme.com/room/magician
 Room Code: magician
 
-S.No: 322
+
+S.No: 328
+Name: Hacker of the Hill #1
+Type: ['hackerone', 'bug bounty', 'h1']
+URL: https://tryhackme.com/room/hackerofthehill
+Room Code: hackerofthehill
+
+
+S.No: 329
 Name: WebOSINT
 Type: ['osint', 'webosint', 'osintstan']
 URL: https://tryhackme.com/room/webosint
 Room Code: webosint
 
-S.No: 323
+
+S.No: 330
 Name: Watcher
 Type: ['security']
 URL: https://tryhackme.com/room/watcher
 Room Code: watcher
 
-S.No: 324
+
+S.No: 331
 Name: ISO27001
 Type: ['iso27001', 'blueteam', 'ISMS']
 URL: https://tryhackme.com/room/iso27001
 Room Code: iso27001
 
-S.No: 325
+
+S.No: 332
 Name: The Great Escape
 Type: ['security', 'docker', 'ssrf', 'injection']
 URL: https://tryhackme.com/room/thegreatescape
 Room Code: thegreatescape
 
-S.No: 326
+
+S.No: 333
 Name: Inferno
 Type: ['security', 'inferno', 'vulnhub', 'oscp', 'mindsflee']
 URL: https://tryhackme.com/room/inferno
 Room Code: inferno
 
-S.No: 327
+
+S.No: 334
 Name: Investigating Windows 2.0
 Type: ['sysinternals', 'loki', 'yara']
 URL: https://tryhackme.com/room/investigatingwindows2
 Room Code: investigatingwindows2
 
-S.No: 328
+
+S.No: 335
 Name: Investigating Windows 3.x
 Type: ['sysinternals', 'mitre', 'event logs', 'sysmon']
 URL: https://tryhackme.com/room/investigatingwindows3
 Room Code: investigatingwindows3
 
-S.No: 329
+
+S.No: 336
 Name: En-pass
 Type: ['security', 'linux']
 URL: https://tryhackme.com/room/enpass
 Room Code: enpass
 
-S.No: 330
+
+S.No: 337
 Name: Linux Modules
 Type: ['bash', 'linux', 'modules']
 URL: https://tryhackme.com/room/linuxmodules
 Room Code: linuxmodules
 
-S.No: 331
+
+S.No: 338
 Name: Classic Passwd
 Type: ['security', 'assembly', 'reversing', 'bypass', 'login']
 URL: https://tryhackme.com/room/classicpasswd
 Room Code: classicpasswd
 
-S.No: 332
+
+S.No: 339
 Name: Archangel
 Type: ['security', 'lfi', 'boot2root', 'privilege escalation', 'web exploitation', 'web']
 URL: https://tryhackme.com/room/archangel
 Room Code: archangel
 
-S.No: 333
+
+S.No: 340
 Name: Bash Scripting 
 Type: ['scripting', 'coding', 'bash', 'challenges']
 URL: https://tryhackme.com/room/bashscripting
 Room Code: bashscripting
 
-S.No: 334
+
+S.No: 341
 Name: Baron Samedit
 Type: ['SudoVulns', 'CVE-2021-3156', 'Sudo', 'Beginner', 'Tutorial', 'Vulnerability', 'Heap', 'Buffer Overflow', 'BoF']
 URL: https://tryhackme.com/room/sudovulnssamedit
 Room Code: sudovulnssamedit
 
-S.No: 335
+
+S.No: 342
 Name: Cyber Scotland 2021
 Type: ['cyberweek2021', 'sbrc', 'wordpress', 'set', 'social engineering toolkit', 'beginner', 'business resilience']
 URL: https://tryhackme.com/room/cyberweek2021
 Room Code: cyberweek2021
 
-S.No: 336
+
+S.No: 343
 Name: Madeye's Castle
 Type: ['security', 'boot2root', ' web', ' sql', 'linux']
 URL: https://tryhackme.com/room/madeyescastle
 Room Code: madeyescastle
 
-S.No: 337
+
+S.No: 344
 Name: Keldagrim
 Type: ['security', 'challenge']
 URL: https://tryhackme.com/room/keldagrim
 Room Code: keldagrim
 
-S.No: 338
+
+S.No: 345
 Name: NahamStore
 Type: ['security', 'web', 'bug bounty']
 URL: https://tryhackme.com/room/nahamstore
 Room Code: nahamstore
 
-S.No: 339
+
+S.No: 346
 Name: Linux Agency
 Type: ['docker', 'sudo', 'linux', 'privesc']
 URL: https://tryhackme.com/room/linuxagency
 Room Code: linuxagency
 
-S.No: 340
+
+S.No: 347
 Name: SQL Injection Lab
 Type: ['security', 'sqli', 'sqlmap', 'web']
 URL: https://tryhackme.com/room/sqlilab
 Room Code: sqlilab
 
-S.No: 341
+
+S.No: 348
 Name: Cyborg
 Type: ['security', 'pentest', 'bash', 'encryption', 'enumeration', 'hash']
 URL: https://tryhackme.com/room/cyborgt8
 Room Code: cyborgt8
 
-S.No: 342
+
+S.No: 349
 Name: Sysinternals
 Type: ['sysinternals', 'procmon', 'psexec', 'procexp']
 URL: https://tryhackme.com/room/btsysinternalssg
 Room Code: btsysinternalssg
 
-S.No: 343
+
+S.No: 350
 Name: Sustah
 Type: ['security', 'linux', 'cms']
 URL: https://tryhackme.com/room/sustah
 Room Code: sustah
 
-S.No: 344
+
+S.No: 351
 Name: Sysmon
 Type: ['sysmon', 'windows', 'sysinternals']
 URL: https://tryhackme.com/room/sysmon
 Room Code: sysmon
 
-S.No: 345
+
+S.No: 352
 Name: John The Ripper
 Type: ['password cracking', 'john', 'hash']
 URL: https://tryhackme.com/room/johntheripper0
 Room Code: johntheripper0
 
-S.No: 346
+
+S.No: 353
 Name: Core Windows Processes
 Type: ['windows', 'processes', 'baseline']
 URL: https://tryhackme.com/room/btwindowsinternals
 Room Code: btwindowsinternals
 
-S.No: 347
+
+S.No: 354
 Name: Chocolate Factory
 Type: ['chocolatefactory', 'CTF', 'stego', 'privesc', 'web', 'netcat', 'reversing']
 URL: https://tryhackme.com/room/chocolatefactory
 Room Code: chocolatefactory
 
-S.No: 348
+
+S.No: 355
 Name: battery
 Type: ['web application', 'python', 'enumeration', 'linux']
 URL: https://tryhackme.com/room/battery
 Room Code: battery
 
-S.No: 349
+
+S.No: 356
 Name: Crack The Hash Level 2
 Type: ['hash', 'hashcat', 'johntheripper', 'cracking', 'password', 'wordlists', 'wordlist generation']
 URL: https://tryhackme.com/room/crackthehashlevel2
 Room Code: crackthehashlevel2
 
-S.No: 350
+
+S.No: 357
 Name: The Hacker Methodology
 Type: ['security', 'methodology', 'hacker method', 'CEH', 'hacker methodology']
 URL: https://tryhackme.com/room/hackermethodology
 Room Code: hackermethodology
 
-S.No: 351
+
+S.No: 358
 Name: Overpass 3 -  Hosting
 Type: ['overpass', 'centos', 'linux', 'privesc', 'ssh', 'firewall', 'NinjaJc01']
 URL: https://tryhackme.com/room/overpass3hosting
 Room Code: overpass3hosting
 
-S.No: 352
+
+S.No: 359
+Name: Intro to Windows
+Type: ['security', 'windows', 'intro']
+URL: https://tryhackme.com/room/intro2windows
+Room Code: intro2windows
+
+
+S.No: 360
 Name: RustScan
 Type: ['security', 'rustscan', 'nmap', 'scan', 'scanning', 'network scanning']
 URL: https://tryhackme.com/room/rustscan
 Room Code: rustscan
 
-S.No: 353
+
+S.No: 361
 Name: EnterPrize
 Type: ['enumeration', 'web', 'real']
 URL: https://tryhackme.com/room/enterprize
 Room Code: enterprize
 
-S.No: 354
+
+S.No: 362
 Name: ColddBox: Easy
 Type: ['security', 'box', 'privesc', 'wordpress']
 URL: https://tryhackme.com/room/colddboxeasy
 Room Code: colddboxeasy
 
-S.No: 355
+
+S.No: 363
 Name: Introduction to Flask
 Type: ['flask', 'python', 'web', 'injection']
 URL: https://tryhackme.com/room/flask
 Room Code: flask
 
-S.No: 356
+
+S.No: 364
 Name: How to use TryHackMe
 Type: ['tutorial']
 URL: https://tryhackme.com/room/howtousetryhackme
 Room Code: howtousetryhackme
 
-S.No: 357
+
+S.No: 365
 Name: OWASP Mutillidae II
 Type: ['security', 'owasp', 'web', 'linux', 'resource', 'lab', 'exercise', 'playground', 'classrooom', 'material']
 URL: https://tryhackme.com/room/owaspmutillidae
 Room Code: owaspmutillidae
 
-S.No: 358
+
+S.No: 366
 Name: Windows Event Logs
 Type: ['event logs', 'wevtutil', 'get-winevent', 'event viewer']
 URL: https://tryhackme.com/room/windowseventlogs
 Room Code: windowseventlogs
 
-S.No: 359
+
+S.No: 367
 Name: Advent of Cyber 2 [2020]
 Type: ['beginner', 'christmas', 'challenge', 'advent', 'of', 'cyber', 'two', '2']
 URL: https://tryhackme.com/room/adventofcyber2
 Room Code: adventofcyber2
 
-S.No: 360
+
+S.No: 368
 Name: 25 Days of Cyber Security
 Type: ['beginner', 'christmas', 'challenge', 'advent', 'of', 'cyber', 'two', '2']
 URL: https://tryhackme.com/room/learncyberin25days
 Room Code: learncyberin25days
 
-S.No: 361
+
+S.No: 369
+Name: Intro to ISAC
+Type: ['Security', 'Threat Intelligence', 'Blue Team', 'ISAC', 'OTX', 'Alienvault', 'IOC']
+URL: https://tryhackme.com/room/introtoisac
+Room Code: introtoisac
+
+
+S.No: 370
 Name: Searchlight - IMINT
 Type: ['OSINT ', 'geolocation']
 URL: https://tryhackme.com/room/searchlightosint
 Room Code: searchlightosint
 
-S.No: 362
+
+S.No: 371
 Name: Linux Strength Training
 Type: ['linux basics', 'command line', 'analysis', 'find', 'information gathering', 'mysql', 'gpg']
 URL: https://tryhackme.com/room/linuxstrengthtraining
 Room Code: linuxstrengthtraining
 
-S.No: 363
+
+S.No: 372
 Name: All in One
 Type: ['security', 'i7md', 'wordpress', 'privesc', 'lxd', 'suid']
 URL: https://tryhackme.com/room/allinonemj
 Room Code: allinonemj
 
-S.No: 364
+
+S.No: 373
+Name: Kubernetes Chall TDI 2020
+Type: ['kubernetes', 'container', 'docker', 'linux', 'networking']
+URL: https://tryhackme.com/room/kuberneteschalltdi2020
+Room Code: kuberneteschalltdi2020
+
+
+S.No: 374
 Name: Unbaked Pie
 Type: ['pivot', 'python', 'pickle', 'django']
 URL: https://tryhackme.com/room/unbakedpie
 Room Code: unbakedpie
 
-S.No: 365
+
+S.No: 375
 Name: Regular expressions
 Type: ['regular expressions', 'regex', 'bash', 'terminal', 'grep']
 URL: https://tryhackme.com/room/catregex
 Room Code: catregex
 
-S.No: 366
+
+S.No: 376
 Name: Nmap
 Type: ['beginner', 'nmap', 'scanning', 'theory', 'furthernmap', 'tutorial', 'walkthrough', 'muirlandoracle', 'port-scanning', 'network-scanning', 'windows', 'SYN Scan', 'Stealth', 'Xmas', 'Fin', 'Null']
 URL: https://tryhackme.com/room/furthernmap
 Room Code: furthernmap
 
-S.No: 367
+
+S.No: 377
 Name: Bookstore
 Type: ['security', 'web', 'rest api', 'api security', 'beginner']
 URL: https://tryhackme.com/room/bookstoreoc
 Room Code: bookstoreoc
 
-S.No: 368
+
+S.No: 378
 Name: Yara
 Type: ['yara', 'threat intelligence', 'malware analysis', 'walkthrough', 'cmnatic', 'apt', 'forensics', 'windows', 'linux']
 URL: https://tryhackme.com/room/yara
 Room Code: yara
 
-S.No: 369
+
+S.No: 379
 Name: Chill Hack
 Type: ['security', 'realworld', 'commandinjection', 'sqlinjection', 'steganography', 'docker']
 URL: https://tryhackme.com/room/chillhack
 Room Code: chillhack
 
-S.No: 370
+
+S.No: 380
 Name: The Docker Rodeo
 Type: ['docker', 'playground', 'showcase', 'walkthrough', 'guide', 'rce', 'kernel exploit', 'breakout', 'containers']
 URL: https://tryhackme.com/room/dockerrodeo
 Room Code: dockerrodeo
 
-S.No: 371
+
+S.No: 381
 Name: Hardening Basics Part 2
 Type: ['security', 'walkthrough', 'hardening', 'linux', 'blue team', ' ubuntu']
 URL: https://tryhackme.com/room/hardeningbasicspart2
 Room Code: hardeningbasicspart2
 
-S.No: 372
+
+S.No: 382
 Name: Hardening Basics Part 1
 Type: ['security', 'walkthrough', 'hardening', 'linux', 'blue team', ' ubuntu']
 URL: https://tryhackme.com/room/hardeningbasicspart1
 Room Code: hardeningbasicspart1
 
-S.No: 373
+
+S.No: 383
 Name: envizon
 Type: ['envizon', 'web', 'docker', 'seclists', 'ruby on rails', 'white box', 'code audit']
 URL: https://tryhackme.com/room/envizon
 Room Code: envizon
 
-S.No: 374
+
+S.No: 384
 Name: Osiris
 Type: ['security', 'theart42', '4ndr34z', 'windows', 'RubberDucky']
 URL: https://tryhackme.com/room/osiris
 Room Code: osiris
 
-S.No: 375
+
+S.No: 385
 Name: You're in a cave 
 Type: ['docker', 'privesc', 'rpg', 'regex', 'java', 'serialization']
 URL: https://tryhackme.com/room/inacave
 Room Code: inacave
 
-S.No: 376
+
+S.No: 386
 Name: Attacking ICS Plant #1
 Type: ['security', 'ics', 'ot', 'scada', 'iot']
 URL: https://tryhackme.com/room/attackingics1
 Room Code: attackingics1
 
-S.No: 377
+
+S.No: 387
 Name: Year of the Owl
 Type: ['security', 'Windows', 'Privesc', 'Disclosure', 'Security', 'WinRM', 'New Year', 'MuirlandOracle', 'Year of the Owl']
 URL: https://tryhackme.com/room/yearoftheowl
 Room Code: yearoftheowl
 
-S.No: 378
+
+S.No: 388
 Name: MITRE
 Type: ['mitre', 'att&ck', 'threat intelligence', 'apt groups']
 URL: https://tryhackme.com/room/mitre
 Room Code: mitre
 
-S.No: 379
+
+S.No: 389
 Name: Linux: Local Enumeration
 Type: ['linux', 'enumeration', 'shell', 'beginner']
 URL: https://tryhackme.com/room/lle
 Room Code: lle
 
-S.No: 380
+
+S.No: 390
 Name: Startup
 Type: ['wireshark', 'cron', 'gobuster', 'enumeration', 'security', 'easy', 'FTP', 'privesc', 'cronjob', 'crontab', 'forensics', 'packet capture', 'ctf', 'boot2root', 'challenge']
 URL: https://tryhackme.com/room/startup
 Room Code: startup
 
-S.No: 381
+
+S.No: 391
 Name: Brute It
 Type: ['security', 'brute force', 'hash cracking', 'privilege escalation']
 URL: https://tryhackme.com/room/bruteit
 Room Code: bruteit
 
-S.No: 382
+
+S.No: 392
 Name: JavaScript Basics
 Type: ['javascript', 'web development', 'beginner', 'accessible']
 URL: https://tryhackme.com/room/javascriptbasics
 Room Code: javascriptbasics
 
-S.No: 383
+
+S.No: 393
 Name: DLL HIJACKING
 Type: ['security', 'dll', 'Empire', 'Invoke-PrintDemon', 'faxhell']
 URL: https://tryhackme.com/room/dllhijacking
 Room Code: dllhijacking
 
-S.No: 384
+
+S.No: 394
 Name: The Server From Hell
 Type: ['security', 'firewall', 'nfs', 'shell escape', 'zip cracking', 'hash cracking']
 URL: https://tryhackme.com/room/theserverfromhell
 Room Code: theserverfromhell
 
-S.No: 385
+
+S.No: 395
 Name: Wireshark 101
 Type: ['PCAP Analysis', 'Forensics', 'Wireshark', 'Threat Hunting', 'DFIR', 'Security', 'Blue Team', 'Incident Response', 'Networking']
 URL: https://tryhackme.com/room/wireshark
 Room Code: wireshark
 
-S.No: 386
+
+S.No: 396
 Name: Year of the Dog
 Type: ['Linux', 'Web', 'cert-style', 'Privesc', 'New Year', 'MuirlandOracle', 'Year of the Dog', 'SQlite', 'Gitea']
 URL: https://tryhackme.com/room/yearofthedog
 Room Code: yearofthedog
 
-S.No: 387
+
+S.No: 397
 Name: NIS - Linux Part I
 Type: ['security', 'linux', 'cat', 'tac', 'grep', 'find', 'tools', 'basics']
 URL: https://tryhackme.com/room/nislinuxone
 Room Code: nislinuxone
 
-S.No: 388
+
+S.No: 398
 Name: NerdHerd
 Type: ['ctf', ' challenge', 'ftp', 'smb', '0xpr0N3rd']
 URL: https://tryhackme.com/room/nerdherd
 Room Code: nerdherd
 
-S.No: 389
+
+S.No: 399
 Name: What the Shell?
 Type: ['shells', 'netcat', 'socat', 'metasploit', 'msfvenom', 'windows', 'linux', 'fundamentals', 'MuirlandOracle', 'Introductory']
 URL: https://tryhackme.com/room/introtoshells
 Room Code: introtoshells
 
-S.No: 390
+
+S.No: 400
 Name: Intro PoC Scripting
 Type: ['exploit development', 'scripting', 'python', 'metasploit', 'poc']
 URL: https://tryhackme.com/room/intropocscripting
 Room Code: intropocscripting
 
-S.No: 391
+
+S.No: 401
 Name: Undiscovered
 Type: ['security', 'web', 'hydra']
 URL: https://tryhackme.com/room/undiscoveredup
 Room Code: undiscoveredup
 
-S.No: 392
+
+S.No: 402
 Name: Physical Security Intro
 Type: ['security', 'lock picking', 'lock bypass']
 URL: https://tryhackme.com/room/physicalsecurityintro
 Room Code: physicalsecurityintro
 
-S.No: 393
+
+S.No: 403
+Name: Persistence
+Type: ['security', 'post-exploitation', 'persistence']
+URL: https://tryhackme.com/room/persistence
+Room Code: persistence
+
+
+S.No: 404
 Name: 0day
 Type: ['CVE', 'kernel exploit', 'shell shock', '0day', 'boot2root']
 URL: https://tryhackme.com/room/0day
 Room Code: 0day
 
-S.No: 394
+
+S.No: 405
 Name: The Marketplace
 Type: ['web', 'xss', 'docker', 'sqli', 'linux']
 URL: https://tryhackme.com/room/marketplace
 Room Code: marketplace
 
-S.No: 395
+
+S.No: 406
 Name: Misguided Ghosts
 Type: ['Port Knocking', 'Wireshark', 'Docker Escape', 'Reverse Tunnel']
 URL: https://tryhackme.com/room/misguidedghosts
 Room Code: misguidedghosts
 
-S.No: 396
+
+S.No: 407
 Name: Content Security Policy
 Type: ['security', 'csp', 'web']
 URL: https://tryhackme.com/room/csp
 Room Code: csp
 
-S.No: 397
+
+S.No: 408
 Name: Revenge
 Type: ['security', 'sqlmap', 'real-world', 'enumeration', 'sqli', 'misconfigured permissions', 'databases', 'black hat', 'blog']
 URL: https://tryhackme.com/room/revenge
 Room Code: revenge
 
-S.No: 398
+
+S.No: 409
 Name: Year of the Pig
 Type: ['Web', 'Linux', 'cert-style', 'Custom', 'Webapp', 'Sqlite', 'Command injection', 'MuirlandOracle', 'New Year']
 URL: https://tryhackme.com/room/yearofthepig
 Room Code: yearofthepig
 
-S.No: 399
+
+S.No: 410
 Name: Psycho Break
 Type: ['security', 'ctf ', 'crypto', 'stego', 'prisec', 'web']
 URL: https://tryhackme.com/room/psychobreak
 Room Code: psychobreak
 
-S.No: 400
+
+S.No: 411
 Name: Zero Logon
 Type: ['CVE-2020-1472', 'Active Directory', 'Windows', 'Domain Controller', 'cryptography', 'code analysis', 'Exploit Development']
 URL: https://tryhackme.com/room/zer0logon
 Room Code: zer0logon
 
-S.No: 401
+
+S.No: 412
 Name: toc2
 Type: ['security']
 URL: https://tryhackme.com/room/toc2
 Room Code: toc2
 
-S.No: 402
+
+S.No: 413
 Name: History of Malware
 Type: ['security', 'walkthrough', 'malware', 'history', 'learning']
 URL: https://tryhackme.com/room/historyofmalware
 Room Code: historyofmalware
 
-S.No: 403
+
+S.No: 414
 Name: Res
 Type: ['SGBD', 'enumetarion', 'rce', 'cracking']
 URL: https://tryhackme.com/room/res
 Room Code: res
 
-S.No: 404
+
+S.No: 415
 Name: Motunui
 Type: ['JSONBrute']
 URL: https://tryhackme.com/room/motunui
 Room Code: motunui
 
-S.No: 405
+
+S.No: 416
 Name: Printer Hacking 101
 Type: ['iot', 'security', 'cups', 'pret']
 URL: https://tryhackme.com/room/printerhacking101
 Room Code: printerhacking101
 
-S.No: 406
+
+S.No: 417
 Name: Mnemonic
 Type: ['gobuster', 'bruteforce', 'code analysis', 'OSINT', 'cracking']
 URL: https://tryhackme.com/room/mnemonic
 Room Code: mnemonic
 
-S.No: 407
+
+S.No: 418
 Name: Getting Started
 Type: ['security', 'web security', 'default creds']
 URL: https://tryhackme.com/room/gettingstarted
 Room Code: gettingstarted
 
-S.No: 408
+
+S.No: 419
 Name: Starting Out In Cyber Sec
 Type: ['security', 'startingout', 'careers', 'intro']
 URL: https://tryhackme.com/room/startingoutincybersec
 Room Code: startingoutincybersec
 
-S.No: 409
+
+S.No: 420
 Name: Aster
 Type: ['reversing', 'enumeration ', 'AMI', 'communications ']
 URL: https://tryhackme.com/room/aster
 Room Code: aster
 
-S.No: 410
+
+S.No: 421
 Name: REmux The Tmux
 Type: ['workflow', 'tmux', 'tutorial', 'guide', 'walkthrough']
 URL: https://tryhackme.com/room/tmuxremux
 Room Code: tmuxremux
 
-S.No: 411
+
+S.No: 422
 Name: iOS Forensics
 Type: ['forensics', 'dfir', 'mobile forensics', 'ios', 'data recovery', 'imaging', 'ufed']
 URL: https://tryhackme.com/room/iosforensics
 Room Code: iosforensics
 
-S.No: 412
+
+S.No: 423
 Name: One Piece
 Type: ['OnePiece', 'CTF', 'Security']
 URL: https://tryhackme.com/room/ctfonepiece65
 Room Code: ctfonepiece65
 
-S.No: 413
+
+S.No: 424
 Name: For Business Reasons
 Type: ['pivot', 'docker', 'ctf', 'realistic', 'web', 'network', 'privesc', 'linux', 'challenge', 'wordpress']
 URL: https://tryhackme.com/room/forbusinessreasons
 Room Code: forbusinessreasons
 
-S.No: 414
+
+S.No: 425
 Name: Learn Rust
 Type: ['security', 'rust', 'accessible']
 URL: https://tryhackme.com/room/rust
 Room Code: rust
 
-S.No: 415
+
+S.No: 426
 Name: Network Services 2
 Type: ['security', 'nfs', 'mysql', 'smtp', 'network security', 'networking']
 URL: https://tryhackme.com/room/networkservices2
 Room Code: networkservices2
 
-S.No: 416
+
+S.No: 427
 Name: Poster
 Type: ['rdbms', 'sql', 'enumeration', 'metasploit']
 URL: https://tryhackme.com/room/poster
 Room Code: poster
 
-S.No: 417
+
+S.No: 428
 Name: RootMe
 Type: ['security', 'web', 'linux', 'privilege-escalation', 'root']
 URL: https://tryhackme.com/room/rrootme
 Room Code: rrootme
 
-S.No: 418
+
+S.No: 429
 Name: Encryption - Crypto 101
 Type: ['security', 'crypto', '101', 'encryption', 'Crypto 101', 'NinjaJc01']
 URL: https://tryhackme.com/room/encryptioncrypto101
 Room Code: encryptioncrypto101
 
-S.No: 419
+
+S.No: 430
 Name: Jacob the Boss
 Type: ['security', 'dotclear', 'exploit', 'jboss', 'privesc search']
 URL: https://tryhackme.com/room/jacobtheboss
 Room Code: jacobtheboss
 
-S.No: 420
+
+S.No: 431
 Name: Ghizer
 Type: ['debug', 'wordpress', 'enumeration', 'rce']
 URL: https://tryhackme.com/room/ghizerctf
 Room Code: ghizerctf
 
-S.No: 421
+
+S.No: 432
+Name: LFI Basics
+Type: ['security', 'learning', 'lfi', 'basics']
+URL: https://tryhackme.com/room/lfibasics
+Room Code: lfibasics
+
+
+S.No: 433
 Name: Android Hacking 101
 Type: ['security', 'android', 'reversing', 'frida']
 URL: https://tryhackme.com/room/androidhacking101
 Room Code: androidhacking101
 
-S.No: 422
+
+S.No: 434
 Name: The Blob Blog
 Type: ['security']
 URL: https://tryhackme.com/room/theblobblog
 Room Code: theblobblog
 
-S.No: 423
+
+S.No: 435
 Name: WWBuddy
 Type: ['security', 'sqli', 'injection', 'logging']
 URL: https://tryhackme.com/room/wwbuddy
 Room Code: wwbuddy
 
-S.No: 424
+
+S.No: 436
 Name: Upload Vulnerabilities
 Type: ['file-upload-vulnerabilites', 'beginner', 'tutorial', 'web', 'walkthrough', 'muirlandoracle', 'basic', 'upload', 'vulnerability', 'vulnerabilities']
 URL: https://tryhackme.com/room/uploadvulns
 Room Code: uploadvulns
 
-S.No: 425
+
+S.No: 437
 Name: Theseus
 Type: ['challenge', 'SuitGuySeries']
 URL: https://tryhackme.com/room/theseus
 Room Code: theseus
 
-S.No: 426
+
+S.No: 438
 Name: GamingServer
 Type: ['security', 'lxd', 'ssh2john', 'boot2root', 'beginner']
 URL: https://tryhackme.com/room/gamingserver
 Room Code: gamingserver
 
-S.No: 427
+
+S.No: 439
 Name: kiba
 Type: ['RCE', 'Elastic', 'python', 'Linux capabilities']
 URL: https://tryhackme.com/room/kiba
 Room Code: kiba
 
-S.No: 428
+
+S.No: 440
 Name: OWASP Juice Shop
 Type: ['juiceshop', 'burp', 'OWASP', 'web', 'seclists', 'XSS', 'SQLi']
 URL: https://tryhackme.com/room/owaspjuiceshop
 Room Code: owaspjuiceshop
 
-S.No: 429
+
+S.No: 441
+Name: SQL Injection
+Type: ['sqli', 'webapp', 'bugbounty', 'sqlmap']
+URL: https://tryhackme.com/room/sqlibasics
+Room Code: sqlibasics
+
+
+S.No: 442
 Name: Git Happens
 Type: ['security', 'git', 'web']
 URL: https://tryhackme.com/room/githappens
 Room Code: githappens
 
-S.No: 430
+
+S.No: 443
 Name: Internal
 Type: ['security', 'Accessible', 'pentest', 'security misconfigurations']
 URL: https://tryhackme.com/room/internal
 Room Code: internal
 
-S.No: 431
+
+S.No: 444
 Name: Relevant
 Type: ['security', 'security misconfiguration', 'Accessible', 'pentest']
 URL: https://tryhackme.com/room/relevant
 Room Code: relevant
 
-S.No: 432
+
+S.No: 445
 Name: Spring
 Type: ['security', 'ctf', 'boot2root', 'git', 'source code analysis', 'misconfiguration', 'password reuse', 'log poisoning', 'arbitrary file write']
 URL: https://tryhackme.com/room/spring
 Room Code: spring
 
-S.No: 433
+
+S.No: 446
+Name: ZTH: Web 2
+Type: ['security', 'zth', 'web', 'authorization', 'api']
+URL: https://tryhackme.com/room/zthweb2
+Room Code: zthweb2
+
+
+S.No: 447
 Name: Looking Glass
 Type: ['wonderland', 'CTF', 'alice', 'ssh', 'privesc', 'ctf', 'alice in wonderland', 'linux', 'scripting', 'NinjaJc01']
 URL: https://tryhackme.com/room/lookingglass
 Room Code: lookingglass
 
-S.No: 434
+
+S.No: 448
 Name: harder
 Type: ['alpine', ' real world', 'git', 'seclists', 'vhosts']
 URL: https://tryhackme.com/room/harder
 Room Code: harder
 
-S.No: 435
+
+S.No: 449
 Name: Overpass 2 - Hacked
 Type: ['security', 'forensics', 'wireshark', 'linux', 'pcap', 'NinjaJc01', 'cooctus']
 URL: https://tryhackme.com/room/overpass2hacked
 Room Code: overpass2hacked
 
-S.No: 436
+
+S.No: 450
 Name: Anonymous Playground
 Type: ['security', 'linux', 'python', 'cipher', 'binex', 'reverse engineering', 'gdb', 'radare2', 'buffer overflow', 'cookies', 'burp']
 URL: https://tryhackme.com/room/anonymousplayground
 Room Code: anonymousplayground
 
-S.No: 437
+
+S.No: 451
 Name: Bolt
 Type: ['Security', 'Web', 'Bolt', 'RCE', 'Metasploit']
 URL: https://tryhackme.com/room/bolt
 Room Code: bolt
 
-S.No: 438
+
+S.No: 452
 Name: Gotta Catch'em All!
 Type: ['security', 'pokemon', 'encoding', 'cipher']
 URL: https://tryhackme.com/room/pokemon
 Room Code: pokemon
 
-S.No: 439
+
+S.No: 453
 Name: Buffer Overflow Prep
 Type: ['OSCP', 'Buffer Overflows', 'BOF', 'Tib3rius']
 URL: https://tryhackme.com/room/bufferoverflowprep
 Room Code: bufferoverflowprep
 
-S.No: 440
+
+S.No: 454
 Name: Ra 2
 Type: ['windows', 'certificates', 'powershell', 'escalation', 'privesc', 'ra', '4ndr34z', 'theart42']
 URL: https://tryhackme.com/room/ra2
 Room Code: ra2
 
-S.No: 441
+
+S.No: 455
 Name: Intro to IoT Pentesting
 Type: ['internet of things', 'iot', 'netgear', 'ap', 'command execution']
 URL: https://tryhackme.com/room/iotintro
 Room Code: iotintro
 
-S.No: 442
+
+S.No: 456
 Name: MAL: Researching
 Type: ['malware analysis', 'cryptography', 'hashtab', 'hybrid analysis', 'virustotal', 'windows', 'malware']
 URL: https://tryhackme.com/room/malresearching
 Room Code: malresearching
 
-S.No: 443
+
+S.No: 457
 Name: Easy Peasy
 Type: ['nmap', 'gobuster', 'steganography', 'cronjob']
 URL: https://tryhackme.com/room/easypeasyctf
 Room Code: easypeasyctf
 
-S.No: 444
+
+S.No: 458
 Name: Recovery
 Type: ['malware', 'reversing', 'linux', 'analysis', 'weekly challenge']
 URL: https://tryhackme.com/room/recovery
 Room Code: recovery
 
-S.No: 445
+
+S.No: 459
 Name: Bounty Hacker
 Type: ['Linux', 'tar', 'privesc', 'security']
 URL: https://tryhackme.com/room/cowboyhacker
 Room Code: cowboyhacker
 
-S.No: 446
+
+S.No: 460
+Name: Web Scanning
+Type: ['security', 'web', 'app', 'scanning']
+URL: https://tryhackme.com/room/rpwebscanning
+Room Code: rpwebscanning
+
+
+S.No: 461
+Name: Active Directory Basics
+Type: ['security', 'active directory', 'windows', 'cloud AD', 'AD lab', 'active directory security', 'AD', 'defending windows', 'attacking windows', 'kerberos', 'NTLM', 'domain services', 'active directory basics']
+URL: https://tryhackme.com/room/activedirectorybasics
+Room Code: activedirectorybasics
+
+
+S.No: 462
 Name: Smag Grotto
 Type: ['Wireshark']
 URL: https://tryhackme.com/room/smaggrotto
 Room Code: smaggrotto
 
-S.No: 447
+
+S.No: 463
+Name: Networking
+Type: ['networking', 'subnet', 'cisco', 'routing']
+URL: https://tryhackme.com/room/bpnetworking
+Room Code: bpnetworking
+
+
+S.No: 464
 Name: Brooklyn Nine Nine
 Type: ['security', 'nmap', 'gobuster', 'pentest', 'steganography', 'enum']
 URL: https://tryhackme.com/room/brooklynninenine
 Room Code: brooklynninenine
 
-S.No: 448
+
+S.No: 465
 Name: Set
 Type: ['windows', 'enumeration', 'smb', 'responder', 'cracking', 'powerup', 'msfvenom', 'weekly challenge']
 URL: https://tryhackme.com/room/set
 Room Code: set
 
-S.No: 449
+
+S.No: 466
 Name: Overpass
 Type: ['security', 'owasp top 10', 'easy', 'cron', 'john the ripper', 'gobuster', 'dirbuster', 'web', 'boot2root', 'overpass', 'owasp', 'NinjaJc01']
 URL: https://tryhackme.com/room/overpass
 Room Code: overpass
 
-S.No: 450
+
+S.No: 467
 Name: OWASP Top 10
 Type: ['owasp', 'top 10', 'Injection', 'Broken Authentication', 'Sensitive Data Exposure', 'XML External Entity', 'Broken Access Control', 'Security Misconfiguration', 'Cross-site Scripting', 'Insecure Deserialization', 'Insufficent Logging', 'Monitoring', 'Components with Known Vulns', 'web']
 URL: https://tryhackme.com/room/owasptop10
 Room Code: owasptop10
 
-S.No: 451
+
+S.No: 468
 Name: Blog
 Type: ['cve 2019-8943', 'wordpress', 'blog', 'web', 'wpscan', 'linux', 'security', 'cutter', 'reverse engineering', 'binary exploitation']
 URL: https://tryhackme.com/room/blog
 Room Code: blog
 
-S.No: 452
+
+S.No: 469
 Name: AttackerKB
 Type: ['attackerkb', 'akb', 'rapid7', 'exploit', 'ctf']
 URL: https://tryhackme.com/room/attackerkb
 Room Code: attackerkb
 
-S.No: 453
+
+S.No: 470
 Name: Source
 Type: ['easy', 'ctf', 'realistic', 'cve', 'webmin', 'CVE-2019-15107', 'command injection', 'metasploit', 'critical']
 URL: https://tryhackme.com/room/source
 Room Code: source
 
-S.No: 454
+
+S.No: 471
 Name: Ra
 Type: ['windows', 'story', 'crackmapexec', 'openfire', 'responder', 'winrm', 'theart42', '4ndr34z', 'weekly challenge']
 URL: https://tryhackme.com/room/ra
 Room Code: ra
 
-S.No: 455
+
+S.No: 472
 Name: Jeff
 Type: ['enumeration  ', 'gobuster', 'cracking', 'wordpress', 'crontab']
 URL: https://tryhackme.com/room/jeff
 Room Code: jeff
 
-S.No: 456
+
+S.No: 473
+Name: SSRF
+Type: ['SSRF', 'burp', 'web', 'server side request forgery']
+URL: https://tryhackme.com/room/ssrf
+Room Code: ssrf
+
+
+S.No: 474
+Name: Nessus
+Type: ['security', 'nessus', 'scanning', 'red']
+URL: https://tryhackme.com/room/rpnessus
+Room Code: rpnessus
+
+
+S.No: 475
 Name: Nessus
 Type: ['security', 'nessus', 'scanning', 'red', 'primer']
 URL: https://tryhackme.com/room/rpnessusredux
 Room Code: rpnessusredux
 
-S.No: 457
+
+S.No: 476
 Name: Dave's Blog
 Type: ['security', 'nodejs', 'nosql', 'binexp', 'bof', 'buffer overflow', 'weekly challenge']
 URL: https://tryhackme.com/room/davesblog
 Room Code: davesblog
 
-S.No: 458
+
+S.No: 477
 Name: Hashing - Crypto 101
 Type: ['security', 'crypto', 'hashing', '101', 'Crypto 101', 'NinjaJc01']
 URL: https://tryhackme.com/room/hashingcrypto101
 Room Code: hashingcrypto101
 
-S.No: 459
+
+S.No: 478
 Name: Windows PrivEsc
 Type: ['privesc', 'privilege escalation', 'windows', 'windows privilege escalation', 'tib3rius']
 URL: https://tryhackme.com/room/windows10privesc
 Room Code: windows10privesc
 
-S.No: 460
+
+S.No: 479
 Name: Linux PrivEsc Arena
 Type: ['security', 'linux', 'privesc']
 URL: https://tryhackme.com/room/linuxprivescarena
 Room Code: linuxprivescarena
 
-S.No: 461
+
+S.No: 480
 Name: KoTH Hackers
 Type: ['security', 'koth', 'http', 'hydra', 'NinjaJc01']
 URL: https://tryhackme.com/room/kothhackers
 Room Code: kothhackers
 
-S.No: 462
+
+S.No: 481
 Name: Year of the Fox
 Type: ['sudo', 'web', 'filter', 'tunnelling', 'privesc', 'lateral', 'boot to root', 'muirlandoracle', 'new year']
 URL: https://tryhackme.com/room/yotf
 Room Code: yotf
 
-S.No: 463
+
+S.No: 482
 Name: HaskHell
 Type: ['security', 'linux', 'boot2root']
 URL: https://tryhackme.com/room/haskhell
 Room Code: haskhell
 
-S.No: 464
+
+S.No: 483
+Name: Intro to x86-64
+Type: ['security', 'assembly', 'reverse engineering', 'radare2']
+URL: https://tryhackme.com/room/introtox8664
+Room Code: introtox8664
+
+
+S.No: 484
 Name: Attacking Kerberos
 Type: ['Kerberos', 'Active Directory', 'Exploitation', 'Windows', 'Privilege Escalation', 'mimikatz', 'rubeus', 'kerbrute', 'Impacket', 'Kerberoasting', 'AS-REP Roasting', 'Golden Ticket', 'Silver Ticket', 'Kerbrute', 'Pass the Ticket', 'Attacking Kerberos', 'windows']
 URL: https://tryhackme.com/room/attackingkerberos
 Room Code: attackingkerberos
 
-S.No: 465
+
+S.No: 485
 Name: Break Out The Cage
 Type: ['python', 'steg', 'rot13', 'mail']
 URL: https://tryhackme.com/room/breakoutthecage1
 Room Code: breakoutthecage1
 
-S.No: 466
+
+S.No: 486
 Name: Carpe Diem 1
 Type: ['cryptoware', ' ransomware', 'graphQL', 'btc', 'cracking', 'weekly challenge']
 URL: https://tryhackme.com/room/carpediem1
 Room Code: carpediem1
 
-S.No: 467
+
+S.No: 487
+Name: Welcome
+Type: ['tutorial']
+URL: https://tryhackme.com/room/welcome
+Room Code: welcome
+
+
+S.No: 488
 Name: Welcome
 Type: ['tutorial']
 URL: https://tryhackme.com/room/hello
 Room Code: hello
 
-S.No: 468
+
+S.No: 489
 Name: Tutorial
 Type: ['tutorial']
 URL: https://tryhackme.com/room/tutorial
 Room Code: tutorial
 
-S.No: 469
+
+S.No: 490
 Name: Mindgames
 Type: ['boot2root', 'challenge', 'ctf', 'linux', 'obscure', 'NinjaJc01']
 URL: https://tryhackme.com/room/mindgames
 Room Code: mindgames
 
-S.No: 470
+
+S.No: 491
+Name: Burp Suite
+Type: ['burpsuite', 'burp', 'suite', 'web', 'app', 'webapp', 'red', 'primer']
+URL: https://tryhackme.com/room/rpburpsuite
+Room Code: rpburpsuite
+
+
+S.No: 492
 Name: Python Playground
 Type: ['ctf', 'boot_to_root', 'docker', 'coding']
 URL: https://tryhackme.com/room/pythonplayground
 Room Code: pythonplayground
 
-S.No: 471
+
+S.No: 493
 Name: Wonderland
 Type: ['ctf', 'alice in wonderland', 'privesc', 'linux', 'web', 'weekly challenge', 'wonderland', 'NinjaJc01']
 URL: https://tryhackme.com/room/wonderland
 Room Code: wonderland
 
-S.No: 472
+
+S.No: 494
+Name: Injection
+Type: ['security', 'linux', 'web', 'os command injection', 'http', 'php']
+URL: https://tryhackme.com/room/injection
+Room Code: injection
+
+
+S.No: 495
 Name: Corp
 Type: ['kerberoast', 'AV Evading', 'Applocker', 'forensic']
 URL: https://tryhackme.com/room/corp
 Room Code: corp
 
-S.No: 473
+
+S.No: 496
 Name: Erit Securus I
 Type: ['security', 'RCE', 'Bolt CMS', 'linux', 'pivot']
 URL: https://tryhackme.com/room/eritsecurusi
 Room Code: eritsecurusi
 
-S.No: 474
+
+S.No: 497
 Name: Introduction to Django
 Type: ['security', 'django', 'python', 'web']
 URL: https://tryhackme.com/room/django
 Room Code: django
 
-S.No: 475
+
+S.No: 498
 Name: Post-Exploitation Basics
 Type: ['mimikatz', 'bloodhound', 'powerview', 'active directory', 'post-exploitation', 'metasploit', 'msfvenom', 'powershell', 'golden tickets', 'windows']
 URL: https://tryhackme.com/room/postexploit
 Room Code: postexploit
 
-S.No: 476
+
+S.No: 499
+Name: Authenticate
+Type: ['JWT', 'burp suite', 'cookies', 'flask', 'bypass']
+URL: https://tryhackme.com/room/authenticate
+Room Code: authenticate
+
+
+S.No: 500
 Name: Lian_Yu
 Type: ['challenge', 'gobuster', 'Steganography', 'priv-esc', 'weekly challenge']
 URL: https://tryhackme.com/room/lianyu
 Room Code: lianyu
 
-S.No: 477
+
+S.No: 501
 Name: Peak Hill
 Type: ['python', 'bytecode', 'pickle', 'uncompyle6']
 URL: https://tryhackme.com/room/peakhill
 Room Code: peakhill
 
-S.No: 478
+
+S.No: 502
 Name: Gatekeeper
 Type: ['security', 'Custom exploitation', 'Buffer Overflow']
 URL: https://tryhackme.com/room/gatekeeper
 Room Code: gatekeeper
 
-S.No: 479
+
+S.No: 503
 Name: Linux PrivEsc
 Type: ['privesc', 'privilege escalation', 'linux', 'linux privilege escalation', 'tib3rius']
 URL: https://tryhackme.com/room/linuxprivesc
 Room Code: linuxprivesc
 
-S.No: 480
+
+S.No: 504
 Name: JVM Reverse Engineering
 Type: ['reverse engineering', 'java', 'bytecode', 'asm', 'jvm']
 URL: https://tryhackme.com/room/jvmreverseengineering
 Room Code: jvmreverseengineering
 
-S.No: 481
+
+S.No: 505
 Name: Anonymous
 Type: ['security', 'linux', 'permissions', 'medium', 'smbclient', 'ftp', 'nmap', 'samba', 'privilege escalation']
 URL: https://tryhackme.com/room/anonymous
 Room Code: anonymous
 
-S.No: 482
+
+S.No: 506
 Name: Anthem
 Type: ['Windows', 'CMS', 'enumeration', 'weekly challenge']
 URL: https://tryhackme.com/room/anthem
 Room Code: anthem
 
-S.No: 483
+
+S.No: 507
+Name: ZTH: Obscure Web Vulns
+Type: ['ssti', 'csrf', 'jwt', 'xxe', 'web', 'zth']
+URL: https://tryhackme.com/room/zthobscurewebvulns
+Room Code: zthobscurewebvulns
+
+
+S.No: 508
 Name: The Impossible Challenge
 Type: ['crypto', 'challenge']
 URL: https://tryhackme.com/room/theimpossiblechallenge
 Room Code: theimpossiblechallenge
 
-S.No: 484
+
+S.No: 509
 Name: KoTH Food CTF
 Type: ['koth', 'linux', 'sudo', 'web', 'mysql', 'NinjaJc01']
 URL: https://tryhackme.com/room/kothfoodctf
 Room Code: kothfoodctf
 
-S.No: 485
+
+S.No: 510
 Name: Racetrack Bank
 Type: ['ctf', 'custom_exploitation', 'puzzle', 'weekly challenge']
 URL: https://tryhackme.com/room/racetrackbank
 Room Code: racetrackbank
 
-S.No: 486
+
+S.No: 511
 Name: Network Services
 Type: ['SMB', 'Telnet', 'FTP', 'networking']
 URL: https://tryhackme.com/room/networkservices
 Room Code: networkservices
 
-S.No: 487
+
+S.No: 512
 Name: Iron Corp
 Type: ['windows', 'auth bruteforcing', 'ssrf', 'token impersonation', 'command injection']
 URL: https://tryhackme.com/room/ironcorp
 Room Code: ironcorp
 
-S.No: 488
+
+S.No: 513
 Name: ConvertMyVideo
 Type: ['security', 'web', 'ctf', 'challenge', 'linux']
 URL: https://tryhackme.com/room/convertmyvideo
 Room Code: convertmyvideo
 
-S.No: 489
+
+S.No: 514
 Name: Tempus Fugit Durius
 Type: ['security', 'CTF', '4ndr34z', 'Tempus Fugit', 'weekly challenge']
 URL: https://tryhackme.com/room/tempusfugitdurius
 Room Code: tempusfugitdurius
 
-S.No: 490
+
+S.No: 515
 Name: Windows PrivEsc Arena
 Type: ['security', 'windows', 'privesc']
 URL: https://tryhackme.com/room/windowsprivescarena
 Room Code: windowsprivescarena
 
-S.No: 491
+
+S.No: 516
 Name: Cicada-3301 Vol:1
 Type: ['security', 'audio', 'steganography', 'cryptography', 'challenge']
 URL: https://tryhackme.com/room/cicada3301vol1
 Room Code: cicada3301vol1
 
-S.No: 492
+
+S.No: 517
 Name: Introduction to OWASP ZAP
 Type: ['owasp', 'zap', 'tool', 'zed attack proxy']
 URL: https://tryhackme.com/room/learnowaspzap
 Room Code: learnowaspzap
 
-S.No: 493
+
+S.No: 518
 Name: Hacking with PowerShell
 Type: ['security', 'powershell', 'scripting', 'windows']
 URL: https://tryhackme.com/room/powershell
 Room Code: powershell
 
-S.No: 494
+
+S.No: 519
 Name: Skynet
 Type: ['gobuster', 'smb', 'rfi']
 URL: https://tryhackme.com/room/skynet
 Room Code: skynet
 
-S.No: 495
+
+S.No: 520
 Name: Kenobi
 Type: ['samba', 'path var manipulation', 'suid', 'smb']
 URL: https://tryhackme.com/room/kenobi
 Room Code: kenobi
 
-S.No: 496
+
+S.No: 521
 Name: Nax
 Type: ['rce', 'CVE-2019-15949', "DM's Esoteric Programming", 'nagios', 'weekly challenge']
 URL: https://tryhackme.com/room/nax
 Room Code: nax
 
-S.No: 497
+
+S.No: 522
 Name: Blaster
 Type: ['retro', 'windows', 'redux', 'privesc', 'cve-2019-1388']
 URL: https://tryhackme.com/room/blaster
 Room Code: blaster
 
-S.No: 498
+
+S.No: 523
 Name: MAL: Strings
 Type: ['windows', 'beginner', 'sysinternals', 'strings', 'malware series', 'malware']
 URL: https://tryhackme.com/room/malstrings
 Room Code: malstrings
 
-S.No: 499
+
+S.No: 524
 Name: Pickle Rick
 Type: ['ctf', 'dirbuster', 'linux']
 URL: https://tryhackme.com/room/picklerick
 Room Code: picklerick
 
-S.No: 500
+
+S.No: 525
 Name: dogcat
 Type: ['php', 'lfi', 'docker', 'security', 'weekly challenge']
 URL: https://tryhackme.com/room/dogcat
 Room Code: dogcat
 
-S.No: 501
+
+S.No: 526
+Name: LFI
+Type: ['security', 'LFI', 'Ubuntu']
+URL: https://tryhackme.com/room/lfi
+Room Code: lfi
+
+
+S.No: 527
 Name: Tony the Tiger
 Type: ['CVE-2015-7501', 'Java Web App', 'cryptography', 'steganography', 'privilege escalation']
 URL: https://tryhackme.com/room/tonythetiger
 Room Code: tonythetiger
 
-S.No: 502
+
+S.No: 528
 Name: Year of the Rabbit
 Type: ['puzzle', 'challenge', 'boot-to-root', 'web', 'muirlandoracle', 'new year']
 URL: https://tryhackme.com/room/yearoftherabbit
 Room Code: yearoftherabbit
 
-S.No: 503
+
+S.No: 529
 Name: Fowsniff CTF
 Type: ['portscanning', 'hashes', 'bruteforcing', 'pop3']
 URL: https://tryhackme.com/room/ctf
 Room Code: ctf
 
-S.No: 504
+
+S.No: 530
 Name: MAL: REMnux - The Redux
 Type: ['ransomware', 'malware', 'remnux', 'memory forensics', 'volatility', 'showcase', 'malware analysis']
 URL: https://tryhackme.com/room/malremnuxv2
 Room Code: malremnuxv2
 
-S.No: 505
+
+S.No: 531
 Name: Attacktive Directory
 Type: ['Active Directory', 'AD', 'Kerberos', 'SMB', 'windows']
 URL: https://tryhackme.com/room/attacktivedirectory
 Room Code: attacktivedirectory
 
-S.No: 506
+
+S.No: 532
 Name: Steel Mountain
 Type: ['windows', 'powershell', 'nmap', 'metasploit']
 URL: https://tryhackme.com/room/steelmountain
 Room Code: steelmountain
 
-S.No: 507
+
+S.No: 533
+Name: Intro to Python
+Type: ['Python', 'Beginner', 'intro to python', 'educational']
+URL: https://tryhackme.com/room/introtopython
+Room Code: introtopython
+
+
+S.No: 534
 Name: HackPark
 Type: ['windows', 'CVE20196714', 'RCE', 'winpea', 'video']
 URL: https://tryhackme.com/room/hackpark
 Room Code: hackpark
 
-S.No: 508
+
+S.No: 535
 Name: Google Dorking
 Type: ['osint', 'google dorking', 'dork', 'beginner', 'web app', 'research', 'researching']
 URL: https://tryhackme.com/room/googledorking
 Room Code: googledorking
 
-S.No: 509
+
+S.No: 536
 Name: Introductory Researching
 Type: ['research', 'beginner', 'introtoresearch', 'skill', 'accessible', 'introductoryresearching']
 URL: https://tryhackme.com/room/introtoresearch
 Room Code: introtoresearch
 
-S.No: 510
+
+S.No: 537
 Name: tomghost
 Type: ['tomcat', 'zip', 'pgp', 'CVE-2020-1938', 'weekly challenge']
 URL: https://tryhackme.com/room/tomghost
 Room Code: tomghost
 
-S.No: 511
+
+S.No: 538
 Name: Introductory Networking
 Type: ['Networking', 'OSI', 'Networking Tools', 'Beginner Path', 'Beginner', 'Introductory Networking', 'introtonetworking', 'intro to networking', 'accessible', 'easy', 'ping', 'traceroute', 'whois', 'dig', 'TCP/IP', 'Wireshark', 'Encapsulation']
 URL: https://tryhackme.com/room/introtonetworking
 Room Code: introtonetworking
 
-S.No: 512
+
+S.No: 539
 Name: Jack-of-All-Trades
 Type: ['Securi-Tay', 'Conference', 'Challenge', 'Boot-to-root', 'Web', 'Password Cracking']
 URL: https://tryhackme.com/room/jackofalltrades
 Room Code: jackofalltrades
 
-S.No: 513
+
+S.No: 540
 Name: Dumping Router Firmware
 Type: ['security', 'router', 'Reverse Engineering', 'Firmware', 'Dumping']
 URL: https://tryhackme.com/room/rfirmware
 Room Code: rfirmware
 
-S.No: 514
+
+S.No: 541
 Name: MAL: Malware Introductory
 Type: [' beginner', ' introductory', 'peid', 'ida freeware', 'windows', 'pestudio', 'malware analysis', 'malware']
 URL: https://tryhackme.com/room/malmalintroductory
 Room Code: malmalintroductory
 
-S.No: 515
+
+S.No: 542
 Name: Vulnversity
 Type: ['recon', 'privesc', 'webappsec', 'video']
 URL: https://tryhackme.com/room/vulnversity
 Room Code: vulnversity
 
-S.No: 516
+
+S.No: 543
 Name: The Cod Caper
 Type: ['security', 'pwn', 'pwntools', 'Reversing', ' debugging', ' RE', 'weekly challenge']
 URL: https://tryhackme.com/room/thecodcaper
 Room Code: thecodcaper
 
-S.No: 517
+
+S.No: 544
 Name: Common Linux Privesc
 Type: ['security', 'Linux', 'privilege', 'escalation']
 URL: https://tryhackme.com/room/commonlinuxprivesc
 Room Code: commonlinuxprivesc
 
-S.No: 518
+
+S.No: 545
+Name: Inclusion
+Type: ['web', 'file inclusion', 'lfi', 'sudo', 'weekly challenge']
+URL: https://tryhackme.com/room/inclusion
+Room Code: inclusion
+
+
+S.No: 546
 Name: CCT2019
 Type: ['security', 'pcap', 'ctf', 're', 'forensics', 'crypto', 'steganography']
 URL: https://tryhackme.com/room/cct2019
 Room Code: cct2019
 
-S.No: 519
+
+S.No: 547
+Name: Web Fundamentals
+Type: ['web', 'HTTP', 'CTF', 'beginner', 'cookie', 'webapp', 'dns', 'website', 'NinjaJc01']
+URL: https://tryhackme.com/room/webfundamentals
+Room Code: webfundamentals
+
+
+S.No: 548
+Name: XXE
+Type: ['security', 'xml', 'xxe', 'weekly challenge']
+URL: https://tryhackme.com/room/xxe
+Room Code: xxe
+
+
+S.No: 549
 Name: Windows Base
 Type: ['windows', 'sysinternals', 'cain and abel', 'burpsuite', 'wireshark', 'owasp zap', 'vega', 'pwdump', 'cain']
 URL: https://tryhackme.com/room/windowsbase
 Room Code: windowsbase
 
-S.No: 520
+
+S.No: 550
+Name: Learn Linux
+Type: ['red', 'primer', 'metasploit', 'msf', 'video']
+URL: https://tryhackme.com/room/zthlinux
+Room Code: zthlinux
+
+
+S.No: 551
+Name: Linux Fundamentals Part 1
+Type: ['linux', 'beginner', 'ZTH', 'new', 'sysadmin']
+URL: https://tryhackme.com/room/linux1
+Room Code: linux1
+
+
+S.No: 552
+Name: Linux Fundamentals Part 3
+Type: ['linux', 'beginner', 'ZTH', 'new', 'sysadmin']
+URL: https://tryhackme.com/room/linux3
+Room Code: linux3
+
+
+S.No: 553
+Name: Linux Fundamentals Part 2
+Type: ['linux', 'beginner', 'ZTH', 'new', 'sysadmin']
+URL: https://tryhackme.com/room/linux2
+Room Code: linux2
+
+
+S.No: 554
 Name: NoNameCTF
 Type: ['overflow', 'ssti', 'tornado', 'pip']
 URL: https://tryhackme.com/room/nonamectf
 Room Code: nonamectf
 
-S.No: 521
+
+S.No: 555
 Name: Willow
 Type: ['puzzle', 'ctf', 'challenge', 'boot-to-root', 'willow', 'Flora', 'steganography', 'rsa', 'encoding', 'crypto', 'weekly challenge', 'muirlandoracle']
 URL: https://tryhackme.com/room/willow
 Room Code: willow
 
-S.No: 522
+
+S.No: 556
 Name: Brainpan 1
 Type: ['buffer overflow', 'linux', 'windows']
 URL: https://tryhackme.com/room/brainpan
 Room Code: brainpan
 
-S.No: 523
+
+S.No: 557
+Name: Volatility
+Type: ['blue', 'primer', 'volatility', 'memory', 'forensics', 'defense', 'incident', 'response']
+URL: https://tryhackme.com/room/bpvolatility
+Room Code: bpvolatility
+
+
+S.No: 558
 Name: CherryBlossom
 Type: ['cherryblossom', 'ctf', 'challenge', 'boot-to-root', 'CVE-2019-18634', 'Sudo', 'Cryptography', 'Crypto', 'puzzle', 'weekly challenge', 'Flora', 'muirlandoracle']
 URL: https://tryhackme.com/room/cherryblossom
 Room Code: cherryblossom
 
-S.No: 524
+
+S.No: 559
 Name: hackerNote
 Type: ['security', 'cve-2019-18634', 'enumeration', 'webapp', 'hackernote', 'hydra', 'python']
 URL: https://tryhackme.com/room/hackernote
 Room Code: hackernote
 
-S.No: 525
+
+S.No: 560
 Name: Hydra
 Type: ['hydra', 'bruteforce']
 URL: https://tryhackme.com/room/hydra
 Room Code: hydra
 
-S.No: 526
+
+S.No: 561
 Name: Phishing: HiddenEye
 Type: ['security', 'phishing', 'i7md ']
 URL: https://tryhackme.com/room/phishinghiddeneye
 Room Code: phishinghiddeneye
 
-S.No: 527
+
+S.No: 562
 Name: CMesS
 Type: ['security', 'cms', 'gila', 'tar', 'wfuzz', 'sub domain', 'crontab', 'weekly challenge']
 URL: https://tryhackme.com/room/cmess
 Room Code: cmess
 
-S.No: 528
+
+S.No: 563
 Name: Kali Machine
 Type: ['rdp', 'kali']
 URL: https://tryhackme.com/room/kali
 Room Code: kali
 
-S.No: 529
+
+S.No: 564
 Name: Empire
 Type: ['Empire', 'C2', 'post exploitation', 'Starkiller', 'Red Team', 'Red Primer', 'red', 'primerr']
 URL: https://tryhackme.com/room/rppsempire
 Room Code: rppsempire
 
-S.No: 530
+
+S.No: 565
 Name: Sudo Security Bypass
 Type: ['SudoVulns', 'CVE-2019-14287', 'Sudo', 'Beginner', 'Tutorial', 'Vulnerability', 'Security Bypass']
 URL: https://tryhackme.com/room/sudovulnsbypass
 Room Code: sudovulnsbypass
 
-S.No: 531
+
+S.No: 566
 Name: Sudo Buffer Overflow
 Type: ['SudoVulns', 'CVE-2019-18634', 'Sudo', 'Beginner', 'Tutorial', 'Vulnerability', 'BOF', 'Buffer Overflow']
 URL: https://tryhackme.com/room/sudovulnsbof
 Room Code: sudovulnsbof
 
-S.No: 532
+
+S.No: 567
 Name: Jupyter 101
 Type: ['data analytics', 'jupyter notebook', 'matplotlib', 'pandas', 'python', 'tutorial', 'walkthrough', 'introduction', 'beginner', 'beginner friendly', 'web application']
 URL: https://tryhackme.com/room/jupyter101
 Room Code: jupyter101
 
-S.No: 533
+
+S.No: 568
 Name: Geolocating Images
 Type: ['osint', 'geolocation']
 URL: https://tryhackme.com/room/geolocatingimages
 Room Code: geolocatingimages
 
-S.No: 534
+
+S.No: 569
 Name: Shodan.io
 Type: ['accessible', 'shodan', 'osint', 'iot', 'search engine', 'web']
 URL: https://tryhackme.com/room/shodan
 Room Code: shodan
 
-S.No: 535
+
+S.No: 570
 Name: Jack
 Type: ['wordpress', 'web', 'python', 'weekly challenge']
 URL: https://tryhackme.com/room/jack
 Room Code: jack
 
-S.No: 536
+
+S.No: 571
+Name: Nmap
+Type: ['red', 'primer', 'nmap', 'scanning', 'video']
+URL: https://tryhackme.com/room/rpnmap
+Room Code: rpnmap
+
+
+S.No: 572
 Name: Tor
 Type: ['security', 'tor', 'proxychains']
 URL: https://tryhackme.com/room/torforbeginners
 Room Code: torforbeginners
 
-S.No: 537
+
+S.No: 573
 Name: OpenVPN
 Type: ['openvpn']
 URL: https://tryhackme.com/room/openvpn
 Room Code: openvpn
 
-S.No: 538
+
+S.No: 574
 Name: Musical Stego
 Type: ['steganography', 'audio', 'qr', 'morse']
 URL: https://tryhackme.com/room/musicalstego
 Room Code: musicalstego
 
-S.No: 539
+
+S.No: 575
 Name: Game Zone
 Type: ['sqli', 'hashcracking', 'metasploit', 'ssh tunnel', 'reverse ssh']
 URL: https://tryhackme.com/room/gamezone
 Room Code: gamezone
 
-S.No: 540
+
+S.No: 576
+Name: Sublist3r
+Type: ['red', 'primer', 'sublist3r', 'recon', 'dns', 'osint']
+URL: https://tryhackme.com/room/rpsublist3r
+Room Code: rpsublist3r
+
+
+S.No: 577
 Name: Binex
 Type: ['suid', 'buffer overflow', 'bof', 'path', 'linux', 'find', 'hydra', 'smb', 'weekly challenge']
 URL: https://tryhackme.com/room/binex
 Room Code: binex
 
-S.No: 541
+
+S.No: 578
 Name: Daily Bugle
 Type: ['joomla', 'sqli', 'yum', 'sqlmap', 'john the ripper', 'cracking', 'password cracking', 'gtfobins', 'weekly challenge']
 URL: https://tryhackme.com/room/dailybugle
 Room Code: dailybugle
 
-S.No: 542
+
+S.No: 579
 Name: tmux
 Type: ['red', 'primer', 'tmux', 'tutorial']
 URL: https://tryhackme.com/room/rptmux
 Room Code: rptmux
 
-S.No: 543
+
+S.No: 580
 Name: DVWA
 Type: ['dvwa', 'testing', 'unguided']
 URL: https://tryhackme.com/room/dvwa
 Room Code: dvwa
 
-S.No: 544
+
+S.No: 581
 Name: WebGOAT
 Type: ['webgoat', 'testing', 'webapp', 'owasp']
 URL: https://tryhackme.com/room/webgoat
 Room Code: webgoat
 
-S.No: 545
+
+S.No: 582
 Name: Wifi Hacking 101
 Type: ['security', 'wifi', 'wireless', 'WPA2', 'WPA', 'aircrack-ng', 'WLAN', '101', 'NinjaJc01']
 URL: https://tryhackme.com/room/wifihacking101
 Room Code: wifihacking101
 
-S.No: 546
+
+S.No: 583
 Name: Avengers Blog
 Type: ['sqli', 'rce', 'web', 'linux', 'video']
 URL: https://tryhackme.com/room/avengers
 Room Code: avengers
 
-S.No: 547
+
+S.No: 584
 Name: Madness
 Type: ['security', 'steganography', 'web', 'challenge']
 URL: https://tryhackme.com/room/madness
 Room Code: madness
 
-S.No: 548
+
+S.No: 585
+Name: CC: Steganography
+Type: ['security', 'steg', 'steganography', 'secret']
+URL: https://tryhackme.com/room/ccstego
+Room Code: ccstego
+
+
+S.No: 586
+Name: The find command
+Type: ['linux', 'terminal', 'bash']
+URL: https://tryhackme.com/room/thefindcommand
+Room Code: thefindcommand
+
+
+S.No: 587
 Name: Advent of Cyber 1 [2019]
 Type: ['beginner', 'christmas', 'challenge', 'advent']
 URL: https://tryhackme.com/room/25daysofchristmas
 Room Code: 25daysofchristmas
 
-S.No: 549
-Name: Blue
-Type: ['windows', 'eternal blue', ' MS17-010', ' CVE2017-0144', ' CVE-2017-0145', ' CVE-2017-0146', 'CVE-2017-0147', 'CVE-2017-0148', 'SMB', 'CVE-2017-0143', 'video']
-URL: https://tryhackme.com/room/blue
-Room Code: blue
-
-S.No: 550
-Name: CTF collection Vol.2
-Type: ['security']
-URL: https://tryhackme.com/room/ctfcollectionvol2
-Room Code: ctfcollectionvol2
-
-S.No: 551
-Name: CTF collection Vol.1
-Type: ['Capture the flag', 'stego', 'crypto', 'binary']
-URL: https://tryhackme.com/room/ctfcollectionvol1
-Room Code: ctfcollectionvol1
-
-S.No: 552
-Name: hc0n Christmas CTF
-Type: ['security']
-URL: https://tryhackme.com/room/hc0nchristmasctf
-Room Code: hc0nchristmasctf
-
-S.No: 553
-Name: LazyAdmin
-Type: ['security', 'linux']
-URL: https://tryhackme.com/room/lazyadmin
-Room Code: lazyadmin
-
-S.No: 554
-Name: Blueprint
-Type: ['security', 'windows']
-URL: https://tryhackme.com/room/blueprint
-Room Code: blueprint
-
-S.No: 555
-Name: Basic Malware RE
-Type: ['security', 'reverse engineering ', 'malware', 'malware analysis']
-URL: https://tryhackme.com/room/basicmalwarere
-Room Code: basicmalwarere
-
-S.No: 556
-Name: Reversing ELF
-Type: ['reverse engineering', 'elf', 'ctf', 'challenge']
-URL: https://tryhackme.com/room/reverselfiles
-Room Code: reverselfiles
-
-S.No: 557
-Name: Ninja Skills
-Type: ['linux', 'basics', 'ctf']
-URL: https://tryhackme.com/room/ninjaskills
-Room Code: ninjaskills
-
-S.No: 558
-Name: Toolbox: Vim 
-Type: ['security', 'linux', 'vim', 'vi']
-URL: https://tryhackme.com/room/toolboxvim
-Room Code: toolboxvim
-
-S.No: 559
-Name: Alfred
-Type: ['jenkins', 'windows tokens', 'walkthrough']
-URL: https://tryhackme.com/room/alfred
-Room Code: alfred
-
-S.No: 560
-Name: Agent Sudo
-Type: ['enumerate', 'exploit', 'brute-force', 'hash cracking']
-URL: https://tryhackme.com/room/agentsudoctf
-Room Code: agentsudoctf
-
-S.No: 561
-Name: Borderlands
-Type: ['bgp', 'networking', 'challenge']
-URL: https://tryhackme.com/room/borderlands
-Room Code: borderlands
-
-S.No: 562
-Name: Wgel CTF
-Type: ['security']
-URL: https://tryhackme.com/room/wgelctf
-Room Code: wgelctf
-
-S.No: 563
-Name: HA Joker CTF
-Type: ['nmap', 'burp', 'dirb', 'lxc']
-URL: https://tryhackme.com/room/jokerctf
-Room Code: jokerctf
-
-S.No: 564
-Name: Bebop
-Type: ['drone hacking', 'busybox', 'FreeBSD', 'telnet']
-URL: https://tryhackme.com/room/bebop
-Room Code: bebop
-
-S.No: 565
-Name: Scripting
-Type: ['security', 'python', 'scripting']
-URL: https://tryhackme.com/room/scripting
-Room Code: scripting
-
-S.No: 566
-Name: Adventure Time
-Type: ['ctf', 'encoding', 'encryption', 'EoP']
-URL: https://tryhackme.com/room/adventuretime
-Room Code: adventuretime
-
-S.No: 567
-Name: Biohazard
-Type: ['cipher', 'base', 'stego', 'root']
-URL: https://tryhackme.com/room/biohazard
-Room Code: biohazard
-
-S.No: 568
-Name: Break it
-Type: ['bases', 'cipher', 'bit shift']
-URL: https://tryhackme.com/room/breakit
-Room Code: breakit
-
-S.No: 569
-Name: Brainstorm
-Type: ['reverse engineering', 'windows', 'buffer overflow']
-URL: https://tryhackme.com/room/brainstorm
-Room Code: brainstorm
-
-S.No: 570
-Name: Buffer Overflows
-Type: ['security', 'bufferoverflows', 'basic', 'systems']
-URL: https://tryhackme.com/room/bof1
-Room Code: bof1
-
-S.No: 571
-Name: Develpy
-Type: ['security']
-URL: https://tryhackme.com/room/bsidesgtdevelpy
-Room Code: bsidesgtdevelpy
-
-S.No: 572
-Name: Dav
-Type: ['security']
-URL: https://tryhackme.com/room/bsidesgtdav
-Room Code: bsidesgtdav
-
-S.No: 573
-Name: Library
-Type: ['security']
-URL: https://tryhackme.com/room/bsidesgtlibrary
-Room Code: bsidesgtlibrary
-
-S.No: 574
-Name: Thompson
-Type: ['security']
-URL: https://tryhackme.com/room/bsidesgtthompson
-Room Code: bsidesgtthompson
-
-S.No: 575
-Name: Boiler CTF
-Type: ['ctf', 'ftp', 'ssh', 'webmin', 'challenge']
-URL: https://tryhackme.com/room/boilerctf2
-Room Code: boilerctf2
-
-S.No: 576
-Name: Simple CTF
-Type: ['security', 'enumeration', 'privesc']
-URL: https://tryhackme.com/room/easyctf
-Room Code: easyctf
-
-S.No: 577
-Name: Anonforce
-Type: ['security']
-URL: https://tryhackme.com/room/bsidesgtanonforce
-Room Code: bsidesgtanonforce
-
-S.No: 578
-Name: Basic Pentesting
-Type: ['security', 'webapp', 'boot2root', 'cracking']
-URL: https://tryhackme.com/room/basicpentestingjt
-Room Code: basicpentestingjt
-
-S.No: 579
-Name: Ignite
-Type: ['ctf', 'boot2root', 'privesc', 'exploit']
-URL: https://tryhackme.com/room/ignite
-Room Code: ignite
-
-S.No: 580
-Name: StuxCTF
-Type: ['security']
-URL: https://tryhackme.com/room/stuxctf
-Room Code: stuxctf
-
-S.No: 581
-Name: c4ptur3-th3-fl4g
-Type: ['security', 'youtube', 'dccybersec', 'ctf']
-URL: https://tryhackme.com/room/c4ptur3th3fl4g
-Room Code: c4ptur3th3fl4g
-
-S.No: 582
-Name: Forensics 
-Type: ['security', 'forensics', 'RE']
-URL: https://tryhackme.com/room/forensics
-Room Code: forensics
-
-S.No: 583
-Name: Cross-site Scripting
-Type: ['xss', 'persistent', 'dombased', 'crosssitescripting', 'web']
-URL: https://tryhackme.com/room/xss
-Room Code: xss
-
-S.No: 584
-Name: OhSINT
-Type: ['OSINT', 'Internet', 'Dorks']
-URL: https://tryhackme.com/room/ohsint
-Room Code: ohsint
-
-S.No: 585
-Name: ToolsRus
-Type: ['dirbuster', 'nikto', 'metasploit', 'hydra']
-URL: https://tryhackme.com/room/toolsrus
-Room Code: toolsrus
-
-S.No: 586
-Name: UltraTech
-Type: ['security', 'pentest', 'enumeration', 'web']
-URL: https://tryhackme.com/room/ultratech1
-Room Code: ultratech1
-
-S.No: 587
-Name: Investigating Windows
-Type: ['windows', 'challenge', 'forensics', 'rdp']
-URL: https://tryhackme.com/room/investigatingwindows
-Room Code: investigatingwindows
 
 S.No: 588
-Name: HeartBleed
-Type: ['heartbleed', 'ctf', 'metasploit']
-URL: https://tryhackme.com/room/heartbleed
-Room Code: heartbleed
-
-S.No: 589
-Name: Jurassic Park
-Type: ['SQLi', 'Linux', 'dinosaurs', 'CTF']
-URL: https://tryhackme.com/room/jurassicpark
-Room Code: jurassicpark
-
-S.No: 590
-Name: GoldenEye
-Type: ['hydra', 'nmap', 'email', 'enumeration']
-URL: https://tryhackme.com/room/goldeneye
-Room Code: goldeneye
-
-S.No: 591
-Name: Mr Robot CTF
-Type: ['mrrobot', 'root', 'beginner']
-URL: https://tryhackme.com/room/mrrobot
-Room Code: mrrobot
-
-S.No: 592
-Name: Crack the hash
-Type: ['hash', 'hashcat', 'johntheripper', 'cracking']
-URL: https://tryhackme.com/room/crackthehash
-Room Code: crackthehash
-
-S.No: 593
-Name: Ice
-Type: ['windows', 'nmap', 'mimikatz', 'metasploit', 'icecast']
-URL: https://tryhackme.com/room/ice
-Room Code: ice
-
-S.No: 594
 Name: Retro
 Type: ['windows', 'ctf', 'privesc']
 URL: https://tryhackme.com/room/retro
 Room Code: retro
 
+
+S.No: 589
+Name: Ice
+Type: ['windows', 'nmap', 'mimikatz', 'metasploit', 'icecast']
+URL: https://tryhackme.com/room/ice
+Room Code: ice
+
+
+S.No: 590
+Name: Metasploit
+Type: ['red', 'primer', 'metasploit', 'msf', 'video']
+URL: https://tryhackme.com/room/rpmetasploit
+Room Code: rpmetasploit
+
+
+S.No: 591
+Name: Blue
+Type: ['windows', 'eternal blue', ' MS17-010', ' CVE2017-0144', ' CVE-2017-0145', ' CVE-2017-0146', 'CVE-2017-0147', 'CVE-2017-0148', 'SMB', 'CVE-2017-0143', 'video']
+URL: https://tryhackme.com/room/blue
+Room Code: blue
+
+
+S.No: 592
+Name: CTF collection Vol.2
+Type: ['security']
+URL: https://tryhackme.com/room/ctfcollectionvol2
+Room Code: ctfcollectionvol2
+
+
+S.No: 593
+Name: CTF collection Vol.1
+Type: ['Capture the flag', 'stego', 'crypto', 'binary']
+URL: https://tryhackme.com/room/ctfcollectionvol1
+Room Code: ctfcollectionvol1
+
+
+S.No: 594
+Name: CC: Ghidra
+Type: ['security', 'RE', ' Reverse Engineering', 'Ghidra   ']
+URL: https://tryhackme.com/room/ccghidra
+Room Code: ccghidra
+
+
 S.No: 595
-Name: Throwback
-Type: ['Windows AD', 'Attacking Mail Servers', 'AD Enumeration & Exploitation', 'Phishing', 'OSINT', 'Kerberos Abuse', 'Malicious Macros', 'Firewall Pivoting', 'Utilizing C2', 'Abusing Cross-Domain Trusts']
-URL: https://tryhackme.com/room/throwback
-Room Code: throwback
+Name: hc0n Christmas CTF
+Type: ['security']
+URL: https://tryhackme.com/room/hc0nchristmasctf
+Room Code: hc0nchristmasctf
+
 
 S.No: 596
+Name: CC: Pen Testing
+Type: ['security', 'pen testing', 'beginner']
+URL: https://tryhackme.com/room/ccpentesting
+Room Code: ccpentesting
+
+
+S.No: 597
+Name: LazyAdmin
+Type: ['security', 'linux']
+URL: https://tryhackme.com/room/lazyadmin
+Room Code: lazyadmin
+
+
+S.No: 598
+Name: Blueprint
+Type: ['security', 'windows']
+URL: https://tryhackme.com/room/blueprint
+Room Code: blueprint
+
+
+S.No: 599
+Name: Basic Malware RE
+Type: ['security', 'reverse engineering ', 'malware', 'malware analysis']
+URL: https://tryhackme.com/room/basicmalwarere
+Room Code: basicmalwarere
+
+
+S.No: 600
+Name: Reversing ELF
+Type: ['reverse engineering', 'elf', 'ctf', 'challenge']
+URL: https://tryhackme.com/room/reverselfiles
+Room Code: reverselfiles
+
+
+S.No: 601
+Name: Ninja Skills
+Type: ['linux', 'basics', 'ctf']
+URL: https://tryhackme.com/room/ninjaskills
+Room Code: ninjaskills
+
+
+S.No: 602
+Name: Toolbox: Vim 
+Type: ['security', 'linux', 'vim', 'vi']
+URL: https://tryhackme.com/room/toolboxvim
+Room Code: toolboxvim
+
+
+S.No: 603
+Name: Alfred
+Type: ['jenkins', 'windows tokens', 'walkthrough']
+URL: https://tryhackme.com/room/alfred
+Room Code: alfred
+
+
+S.No: 604
+Name: Agent Sudo
+Type: ['enumerate', 'exploit', 'brute-force', 'hash cracking']
+URL: https://tryhackme.com/room/agentsudoctf
+Room Code: agentsudoctf
+
+
+S.No: 605
+Name: Borderlands
+Type: ['bgp', 'networking', 'challenge']
+URL: https://tryhackme.com/room/borderlands
+Room Code: borderlands
+
+
+S.No: 606
+Name: Wgel CTF
+Type: ['security']
+URL: https://tryhackme.com/room/wgelctf
+Room Code: wgelctf
+
+
+S.No: 607
+Name: HA Joker CTF
+Type: ['nmap', 'burp', 'dirb', 'lxc']
+URL: https://tryhackme.com/room/jokerctf
+Room Code: jokerctf
+
+
+S.No: 608
+Name: Bebop
+Type: ['drone hacking', 'busybox', 'FreeBSD', 'telnet']
+URL: https://tryhackme.com/room/bebop
+Room Code: bebop
+
+
+S.No: 609
+Name: Scripting
+Type: ['security', 'python', 'scripting']
+URL: https://tryhackme.com/room/scripting
+Room Code: scripting
+
+
+S.No: 610
+Name: Adventure Time
+Type: ['ctf', 'encoding', 'encryption', 'EoP']
+URL: https://tryhackme.com/room/adventuretime
+Room Code: adventuretime
+
+
+S.No: 611
+Name: Biohazard
+Type: ['cipher', 'base', 'stego', 'root']
+URL: https://tryhackme.com/room/biohazard
+Room Code: biohazard
+
+
+S.No: 612
+Name: Break it
+Type: ['bases', 'cipher', 'bit shift']
+URL: https://tryhackme.com/room/breakit
+Room Code: breakit
+
+
+S.No: 613
+Name: Brainstorm
+Type: ['reverse engineering', 'windows', 'buffer overflow']
+URL: https://tryhackme.com/room/brainstorm
+Room Code: brainstorm
+
+
+S.No: 614
+Name: Buffer Overflows
+Type: ['security', 'bufferoverflows', 'basic', 'systems']
+URL: https://tryhackme.com/room/bof1
+Room Code: bof1
+
+
+S.No: 615
+Name: Develpy
+Type: ['security']
+URL: https://tryhackme.com/room/bsidesgtdevelpy
+Room Code: bsidesgtdevelpy
+
+
+S.No: 616
+Name: Dav
+Type: ['security']
+URL: https://tryhackme.com/room/bsidesgtdav
+Room Code: bsidesgtdav
+
+
+S.No: 617
+Name: Library
+Type: ['security']
+URL: https://tryhackme.com/room/bsidesgtlibrary
+Room Code: bsidesgtlibrary
+
+
+S.No: 618
+Name: Thompson
+Type: ['security']
+URL: https://tryhackme.com/room/bsidesgtthompson
+Room Code: bsidesgtthompson
+
+
+S.No: 619
+Name: Boiler CTF
+Type: ['ctf', 'ftp', 'ssh', 'webmin', 'challenge']
+URL: https://tryhackme.com/room/boilerctf2
+Room Code: boilerctf2
+
+
+S.No: 620
+Name: Simple CTF
+Type: ['security', 'enumeration', 'privesc']
+URL: https://tryhackme.com/room/easyctf
+Room Code: easyctf
+
+
+S.No: 621
+Name: Anonforce
+Type: ['security']
+URL: https://tryhackme.com/room/bsidesgtanonforce
+Room Code: bsidesgtanonforce
+
+
+S.No: 622
+Name: Basic Pentesting
+Type: ['security', 'webapp', 'boot2root', 'cracking']
+URL: https://tryhackme.com/room/basicpentestingjt
+Room Code: basicpentestingjt
+
+
+S.No: 623
+Name: Ignite
+Type: ['ctf', 'boot2root', 'privesc', 'exploit']
+URL: https://tryhackme.com/room/ignite
+Room Code: ignite
+
+
+S.No: 624
+Name: StuxCTF
+Type: ['security']
+URL: https://tryhackme.com/room/stuxctf
+Room Code: stuxctf
+
+
+S.No: 625
+Name: CC: Radare2
+Type: ['radare2', 'assembly', 'crackme']
+URL: https://tryhackme.com/room/ccradare2
+Room Code: ccradare2
+
+
+S.No: 626
+Name: Splunk
+Type: ['blue', 'primer', 'splunk', 'search']
+URL: https://tryhackme.com/room/bpsplunk
+Room Code: bpsplunk
+
+
+S.No: 627
+Name: Meltdown Explained
+Type: ['security', 'meltdown', 'systemsecurity', 'sidechannel']
+URL: https://tryhackme.com/room/meltdownexplained
+Room Code: meltdownexplained
+
+
+S.No: 628
+Name: c4ptur3-th3-fl4g
+Type: ['security', 'youtube', 'dccybersec', 'ctf']
+URL: https://tryhackme.com/room/c4ptur3th3fl4g
+Room Code: c4ptur3th3fl4g
+
+
+S.No: 629
+Name: Forensics 
+Type: ['security', 'forensics', 'RE']
+URL: https://tryhackme.com/room/forensics
+Room Code: forensics
+
+
+S.No: 630
+Name: Cross-site Scripting
+Type: ['xss', 'persistent', 'dombased', 'crosssitescripting', 'web']
+URL: https://tryhackme.com/room/xss
+Room Code: xss
+
+
+S.No: 631
+Name: OhSINT
+Type: ['OSINT', 'Internet', 'Dorks']
+URL: https://tryhackme.com/room/ohsint
+Room Code: ohsint
+
+
+S.No: 632
+Name: ToolsRus
+Type: ['dirbuster', 'nikto', 'metasploit', 'hydra']
+URL: https://tryhackme.com/room/toolsrus
+Room Code: toolsrus
+
+
+S.No: 633
+Name: UltraTech
+Type: ['security', 'pentest', 'enumeration', 'web']
+URL: https://tryhackme.com/room/ultratech1
+Room Code: ultratech1
+
+
+S.No: 634
+Name: Investigating Windows
+Type: ['windows', 'challenge', 'forensics', 'rdp']
+URL: https://tryhackme.com/room/investigatingwindows
+Room Code: investigatingwindows
+
+
+S.No: 635
+Name: HeartBleed
+Type: ['heartbleed', 'ctf', 'metasploit']
+URL: https://tryhackme.com/room/heartbleed
+Room Code: heartbleed
+
+
+S.No: 636
+Name: Linux Challenges
+Type: ['beginner', 'linux', 'challenge', 'ctf']
+URL: https://tryhackme.com/room/linuxctf
+Room Code: linuxctf
+
+
+S.No: 637
+Name: Jurassic Park
+Type: ['SQLi', 'Linux', 'dinosaurs', 'CTF']
+URL: https://tryhackme.com/room/jurassicpark
+Room Code: jurassicpark
+
+
+S.No: 638
+Name: GoldenEye
+Type: ['hydra', 'nmap', 'email', 'enumeration']
+URL: https://tryhackme.com/room/goldeneye
+Room Code: goldeneye
+
+
+S.No: 639
+Name: WebAppSec 101
+Type: ['security', 'webapplication', 'beginner']
+URL: https://tryhackme.com/room/webappsec101
+Room Code: webappsec101
+
+
+S.No: 640
+Name: Mr Robot CTF
+Type: ['mrrobot', 'root', 'beginner']
+URL: https://tryhackme.com/room/mrrobot
+Room Code: mrrobot
+
+
+S.No: 641
+Name: Reverse Engineering
+Type: ['security', 'reverseengineering', 'assembly', 'gdb']
+URL: https://tryhackme.com/room/reverseengineering
+Room Code: reverseengineering
+
+
+S.No: 642
+Name: Crack the hash
+Type: ['hash', 'hashcat', 'johntheripper', 'cracking']
+URL: https://tryhackme.com/room/crackthehash
+Room Code: crackthehash
+
+
+S.No: 643
+Name: Wireshark CTFs
+Type: ['ctf', 'wireshark', 'packets', 'tshark']
+URL: https://tryhackme.com/room/wirectf
+Room Code: wirectf
+
+
+S.No: 644
+Name: KnockKnock
+Type: ['portknocking', 'pcaps', 'wireshark', 'ctf']
+URL: https://tryhackme.com/room/knockknock
+Room Code: knockknock
+
+
+S.No: 645
+Name: Car Hacking 101
+Type: ['security', 'car']
+URL: https://tryhackme.com/room/carhacking101
+Room Code: carhacking101
+
+
+S.No: 646
+Name: CTF 100
+Type: ['telnet', 'cipher', 'encode', 'esolang']
+URL: https://tryhackme.com/room/ctf100
+Room Code: ctf100
+
+
+S.No: 647
+Name: Phantom
+Type: ['security', 'windows']
+URL: https://tryhackme.com/room/phantom
+Room Code: phantom
+
+
+S.No: 648
+Name: s
+Type: ['security']
+URL: https://tryhackme.com/room/s
+Room Code: s
+
+
+S.No: 649
+Name: zSecurity CTF 1
+Type: ['security']
+URL: https://tryhackme.com/room/zsecurityctf1
+Room Code: zsecurityctf1
+
+
+S.No: 650
+Name: zSecurity Cute CTF
+Type: ['security']
+URL: https://tryhackme.com/room/zsecuritycutectfij
+Room Code: zsecuritycutectfij
+
+
+S.No: 651
 Name: Holo
 Type: ['Active Directory', 'Networks', 'Web']
 URL: https://tryhackme.com/room/hololive
 Room Code: hololive
 
+
+S.No: 652
+Name: zSecurity Fuel CTF
+Type: ['security', 'zsecurity']
+URL: https://tryhackme.com/room/zsecurityfuelctfps
+Room Code: zsecurityfuelctfps
+
+
+S.No: 653
+Name: zSecurity Alvin CTF
+Type: ['security', 'zsecurity']
+URL: https://tryhackme.com/room/zsecurityalvinctfeb
+Room Code: zsecurityalvinctfeb
+
+
+S.No: 654
+Name: zSecurity Angus CTF
+Type: ['security']
+URL: https://tryhackme.com/room/zsecurityangusctf
+Room Code: zsecurityangusctf
+
+
+S.No: 655
+Name: zSecurity Mobile CTF
+Type: ['security']
+URL: https://tryhackme.com/room/zsecuritymobilectf
+Room Code: zsecuritymobilectf
+
+
+S.No: 656
+Name: zSecurity Merch CTF
+Type: ['security', 'zsecurity']
+URL: https://tryhackme.com/room/zsecuritymerchctf
+Room Code: zsecuritymerchctf
+
+
+S.No: 657
+Name: Tribute
+Type: ['security', 'python', 'linux', 'ctf']
+URL: https://tryhackme.com/room/tributeqf
+Room Code: tributeqf
+
+
+S.No: 658
+Name: zSecurity Employee CTF
+Type: ['security', 'zsecurity']
+URL: https://tryhackme.com/room/zsecurityemployeectf
+Room Code: zsecurityemployeectf
+
+
+S.No: 659
+Name: Network Forensics
+Type: ['security', 'Network', 'Forensic', 'NetworkForensic']
+URL: https://tryhackme.com/room/netforen
+Room Code: netforen
+
+
+S.No: 660
+Name: zSecurity Comment CTF
+Type: ['security', 'zsecurity']
+URL: https://tryhackme.com/room/zsecuritycommentctf
+Room Code: zsecuritycommentctf
+
+
+S.No: 661
+Name: zSecurity Client CTF
+Type: ['security', 'zsecurity']
+URL: https://tryhackme.com/room/zsecurityclientctf
+Room Code: zsecurityclientctf
+
+
+S.No: 662
+Name: Mr Fox CTF
+Type: ['information gathering', 'security']
+URL: https://tryhackme.com/room/mrfoxctf
+Room Code: mrfoxctf
+
+
+S.No: 663
+Name: zSecurity Gallery CTF
+Type: ['security', 'zsecurity']
+URL: https://tryhackme.com/room/zsecuritygalleryctf
+Room Code: zsecuritygalleryctf
+
+
+S.No: 664
+Name: Identity Revealed!
+Type: ['OSINT', 'Social Media', 'Google Dorking', 'beginner']
+URL: https://tryhackme.com/room/identityrevealeduw
+Room Code: identityrevealeduw
