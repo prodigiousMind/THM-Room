@@ -1,5 +1,8 @@
 # THM-Room
 THM-ROOM.PY is a python script created for educational purpose to fetch all the completed Tryhackme rooms details of a CTF player
+> It can be used to automate two things:
+> 1. Generate list of tryhackme rooms
+> 2. Automatatically Join List of Rooms
 
 > Usage `python3 thm-room.py help`
 ## It can also be used with commands such as `grep`|`sed` to extract only Room URLs/Codes
