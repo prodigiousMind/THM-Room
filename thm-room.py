@@ -43,11 +43,18 @@ try:
         sjoin = 0
         sfail = 0
         cookMe = input("Enter cookie value (extract from request headers): ")
+        
         if (str(cookMe[:7]).lower() == "cookie:"):
             cookMe = cookMe.split("Cookie: ")[1]
         headers['Cookie'] = cookMe.strip()
-        print("\033[93mExtracting Unjoined Rooms\033[0m")
+
         resp = requests.get(url="https://tryhackme.com/api/my-rooms?limit=5000", headers=headers)
+
+        if "tryhackme.com/login" in resp.url:
+            print("\033[91mCookie value is not valid!\033[0m")
+            return 0
+        
+        print("\033[93mExtracting Unjoined Rooms\033[0m")
         jsonRoom = json.loads(resp.text)['rooms']
         
         myRooms = []
